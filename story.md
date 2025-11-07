@@ -1,0 +1,46 @@
+﻿# WIP
+Ort: Pfötchenhausen
+Kommende Ereignisse: Der jährliche Pfötchenhausener Marmeladenwettbewerb!
+Jedes Jahr wird im Herbst die beste Marmelade der Region ausgezeichnet. Der Gewinner erhält viel Jubel, Ruhm, Ehre und …
+naja das war es eigentlich schon. Das Event hat einen großen Emotionalen wert.
+Hauptcharakter: Detective Miez
+Charaktere:
+
+- Detective Miez -> Kater
+- Miss Miau -> Katze
+- Professor Bello -> Hund mit Mönchsfrisur + Brille
+- Zoe Ziege -> Ziege
+- Kurt Kroko -> Krokodil
+- Karl Nikel -> Hase
+- Henry Habicht -> Habicht
+- Pherdi Phuchs -> Fuchs
+- Bruno Bör -> Bär
+- Pfeffer Pig -> Schwein
+
+| Name            | Beschreibung                                                                                                                                           | Motiv                                                                                                                                            | Besonderes Merkmal                                                                                                                                                                                         |
+|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Miss Miau       | Katze. Ehrgeizige Marmeladenkönigin                                                                                                                    | ---                                                                                                                                              | Trägt immer ihr niedliches Schleifchen auf dem Kopf. Und eine Brille.                                                                                                                                      |
+| Professor Bello | Der klügste Hund der Stadt! Hilft ab und an unserem Detektiv aus                                                                                       | ---                                                                                                                                              | Ist krass smart.                                                                                                                                                                                           |
+| Zoe Ziege       | Ziege. Meckert gerne und ist schnell unzufrieden.                                                                                                      | Jedes Jahr gewinnt Miss Miau den Marmeladenwettbewerb. Das scheint Zoe überhaupt nicht zu gefallen.                                              | Ist manchmal Dosen, schämt sich aber sehr dafür. Trägt einen Schal der stark fusselt.                                                                                                                      |        
+| Kurt Kroko      | Krokodil. Sportlicher Typ, der super gerne joggen geht. Lebt in de r direkten Nachbarschaft von Miss Miau                                              | Er geht jedes Jahr zum Wettbewerb und probiert am Ende die Marmeladen der Teilnehmer. Miss Miaus Marmelade kann er kaum erwarten!                | Trägt ein Stirnband. Er hat immer seinen kleinen Freund Peter Piep auf dem Kopf (verliert ab und an Federn). Wenn die beiden zusammen joggen gehen, lugt er gerne frech in die Wohnungen anderer Leute.    |
+| Karl Nikel      | Hase. Trägt für gewöhnlich eine Latzhose. Ist ein sehr fröhlicher Geselle.                                                                             | Wenn er umherspringt verliert er sich gern in Gedanken. Dabei geht auch mal was zu bruch.                                                        | Springt gerne fröhlich umher (vor allem im Matsch oder auf dem Rasen). Mag Schuhe nicht gerne und geht deswegen oft barfuß. Das hinterlässt gerne unschöne Hasenabdrücke!                                  |
+| Henry Habicht   | Habicht. Trägt einen schicken Anzug und ist eher vornehm, nur nicht wenn es um sein lieblings Essen geht. Er ist ein Juror des Marmeladenwettbewerbes. | Erdbeeren sind für ihn unwiderstehlich. Nur sie bringen ihn aus der Fassung! Er war zu Besucht bei Miss Miau und verlas die Küche erst nach ihr. | Er hat eine schwäche für Erdbeeren. Wenn du nicht aufpasst pickt er in deinem Garten die frischen Erdbeerchen vom Feld!                                                                                    |
+| Pherdi Phuchs   | Fuchs. Häufig trägt er seine blaue Mütze-Schal-Combi, die ihm im kühlen Herbs warmhält. Ist eher schüchtern.                                           | Kleptomane                                                                                                                                       | Glänzendes gefällt ihm sehr. Schon lange kämpft er mit seiner Kleptomanie. Tatsächlich nimmt er aber schon seit längerem erfolgreich an einer Therapie teil. Er ist seit einem Jahr clean! Yay!            |
+| Bruno Bör       | Bär. Ein entspannter Teddybär. Begeisterter Zuschauer des Marmeladenwettbewerbs.                                                                       | Er wollte schon immer miss Miaus Marmelade probieren, aber leider blieb noch nie etwas für ihn übrig.                                            | Trägt einen feschen Partyhut. Süßes mag er sehr gerne, genauso wie seine Bienenfreunde. Von Honig kann er nicht genug bekommen! Mit seinen großen Pranken hinterlässt er ab und an unbeabsichtigt Kratzer. |
+| Pfeffer Pig     | Schon lange versucht Pfeffer das geheime geheim Rezept von Miau zu kopieren. Aber es klappt einfach nicht!                                             | Nimmt selbst am Wettbewerb teil und möchte diesen gewinnen.                                                                                      | Sieht ein bisschen aus wie der beste Freund von Winni Pooh, nur etwas kräftiger.                                                                                                                           |
+
+Thema: 
+Miss Miau ist eine enge Freundin von Detective Miez.
+Miss Miaus preisgekrönte Erdbeer-Marmelade wurde gestohlen!
+Detective Miez soll den Dieb aufspüren und die Marmelade zurückholen.
+Professor Bello gibt ab und an hilfreiche Tipps.
+Die übrigen Charaktere sind Zeugen oder Täter.
+
+Tatort: 
+-	Küche
+-	Auf der Küchenzeile steht der leere ausgekratze Topf, in dem Miss Miau gestern die frische Marmelade für den Wettbewerb gekocht hat.
+-	Miss Miau befüllte am Abend ein Einmachglas mit der Marmelade. Es blieb nur ein klitzekleiner Rest im Topf übrig.
+-	Am Boden der Küche, direkt vor der Küchenzeile wurde ein loser Einmachglasdeckel gefunden! An diesem befinden sich Marmeladenspuren. Zudem sah er etwas angeknabbert aus.
+-	An der Küchentür wurde eine kleine Feder gefunden.
+-	Die Tür des Hauses war am Morgen angelehnt und nicht verschlossen.
+-	Das Geheimrezept war nicht mehr in seinem Versteck! (Eine marmeladenförmige Sparbüchse)
