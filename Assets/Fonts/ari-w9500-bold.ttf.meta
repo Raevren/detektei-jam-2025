@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 612bf940473d1d34d8013a9450969ab9
+guid: f2bed9213a7395c45bb9cc89185fef58
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Ari-W9500
+  - Ari-W9500 Bold
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
