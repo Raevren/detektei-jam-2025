@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Dialog_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: d3533fb2f6ab84c4eabd7959101e9e2f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 47231066112
+    m_Localized: "Man erz\xE4hlt von einer Schatulle, die jedem den Tod bringt, der
+      es wagt, sie zu \xF6ffnen.\nSag mir, ob diese Geschichten wahr sind?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15572568956928
+    m_Localized: Habicht, Habicht!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15617448009728
+    m_Localized: Ende.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22786067193856
+    m_Localized: Hallo, hier bin ich wieder!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

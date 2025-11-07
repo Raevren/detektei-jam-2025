@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using UnityEngine;
+
+// !! JAMS is short for Johanna Ascal Mico Selina !!
+[CreateAssetMenu(menuName = "JAMS/Dialog", fileName = "DialogCanvas")]
+public class DialogSequence : ScriptableObject
+{
+    // Every line, in order
+    [field: SerializeField] public List<CharacterDialog> Dialogs { get; private set; }
+}
+
+[Serializable]
+public class CharacterDialog
+{
+    [field: SerializeField] public DialogActor Actor { get; private set; }
+    
+    // Translation keys
+    [field: SerializeField] public List<SingleDialog> Lines { get; private set; }
+}
+
+public enum DialogActor
+{
+    DetectiveMiez,
+}

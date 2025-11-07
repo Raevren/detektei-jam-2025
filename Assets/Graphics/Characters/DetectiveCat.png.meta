@@ -110,11 +110,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DetectiveCat_0
+      name: DetectiveMiez
       rect:
         serializedVersion: 2
         x: 6
-        y: 262
+        y: 259
         width: 250
         height: 250
       alignment: 7
@@ -127,6 +127,28 @@ TextureImporter:
       bones: []
       spriteID: 48f92938ab25b2d41a25baf55efab871
       internalID: 2064330830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetectiveMiez_happy
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 13
+        width: 250
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed31453b6651a54f824391badc35052
+      internalID: -523589595
       vertices: []
       indices: 
       edges: []
@@ -145,7 +167,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      DetectiveCat_0: 2064330830
+      DetectiveMiez: 2064330830
+      DetectiveMiez_happy: -523589595
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
