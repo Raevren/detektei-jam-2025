@@ -75,7 +75,7 @@ Plan
        - Neuer Hinweis: Miss Miau
        - Neuer Hinweis: Pfeffer Pig
    - Ziel für nächsten Hinweis: Miau mit Pfeffer verbinden
-  3. Im Garten von Miss Miau
+  3. Pfeffer Pig - Die Rivalin
      - Dialog
        - Pfeffer: [empört] Ich hörte, du suchst den Marmeladendieb – und Miss Miau glaubt, ich wär’s?! Nur weil ich jedes Jahr verliere, heißt das nicht, dass ich klauen muss! Dabei hab ich gestern spät noch im Garten gearbeitet – ich wollte frische Erdbeeren für meine neue Marmelade pflücken!
        - Miez: Aha, spätabends also. Hast du sonst noch jemanden gesehen?
@@ -92,7 +92,7 @@ Plan
         - Neuer Hinweis: Karl Nikel
         - Neuer Hinweis: Henry Habicht
   - Ziel für nächsten Hinweis: Verbinde Pfeffer Pig mit Henry Habicht oder Karl Nikel.
-4. „Der Sprunghafte Zeuge“ (Vorgarten von Miss Miau)
+4. Karl Nikkel - Der sprunghafte Zeuge (Vorgarten von Miss Miau)
     - Dialog:
         - Miez: Karl Nikel? Bleib mal kurz stehen!
         - Karl: Oh! Äh—Mietz! Ich... ich schwöre, ich war’s nicht! Ich hab nur meinen Schuh gesucht!
@@ -109,6 +109,7 @@ Plan
         - Neuer Hinweis: Schlammige Fußspuren
         - Neuer Hinweis: Kurt Kroko
     - Ziel für nächsten Hinweis: Verbinung zu Karl Kroko herstellen
+5. 
 
 
 
