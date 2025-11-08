@@ -1,27 +1,33 @@
-# **Detektei JAM**
+# 🕵️‍♀️ **Detektei JAM**
 _Ein Detektiv-Spiel entwickelt beim Franken Game Jam 2025_
 
-## Gameplay
-- Du spielst als Detective Mietz, der klügste Kopf in Pfötchenhausen. Kannst du alle Hinweise finden und so das Rätsel um die verschwundene Erdbeermarmelade lösen?
+## 🎮 Gameplay
+Du spielst als Detective Mietz - der klügste Kopf in ganz Pfötchenhausen.  
+Eines Morgens erhälst du einen Anruf von deiner guten Freundin Miss Miau:  
 
-# Thema
-- "Everything is connected"
+_"Meine Erdbeermarmelade wurde gestohlen!!!"_ 🍓  
+
+Kannst du alle Hinweise finden und das Rätsel um die verschwundene Erdbeermarmelade lösen?
+
+
+# 💡 Thema
+"Everything is connected"  
 -> entwickelt im Rahmen des Hetzner Game Jam 2025
 
-# Technologien
+# 🛠️ Technologien
 - Engine: Unity 6
-- Sprache: C#
+- Programiersprache: C#
 - Plattform: PC (Web)
 
-# Features
-- Klick to Point
-- erlebe Nostalgie durch GameBoy Optik
-- liebebvoll gestaltete Charaktere
-- Minimalistische Steuerung, aber maximale Spannung
-- Selbstkomponierter Soundtrack
+# ✨ Features
+- 🎨 4 Colours GameBoy Nostalgie
+- 🐾 liebebvoll gestaltete Charaktere mit eigenem Charm
+- 🕹️ Minimalistische Steuerung, aber maximale Spannung
+- 🎵 Selbstkomponierter 8-bit Soundtrack
+- 🔍 Interaktives Detektivrätsel - jeder Hinweis zählt
 
-# Team
+# 👥 Team
 - Selina (Programmierung, Art, Story)
 - Nico (Peogrammmierung, Musik, Sound)
 - Johanna (Art)
-- Pacal (Programmierung, Shader)
+- Pascal (Programmierung)
