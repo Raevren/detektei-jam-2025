@@ -23,4 +23,12 @@ public enum DialogActor
 {
     DetectiveMiez,
     HenryHabicht,
+    missMiau,
+    brunoBör,
+    karlNikel,
+    kurtKroko,
+    pfefferPig,
+    pherdiPhuchs,
+    professorBello,
+    zoeZiege
 }

@@ -167,7 +167,7 @@ public class DialogCanvas : MonoBehaviour
         
         // Load the actor image
         string spriteName = _currentDialog.Lines[_boxOfCurrentDialog].ActorSpriteSuffix.Trim();
-        actorImage.sprite = portraitAtlas.GetSprite(_currentDialog.Actor + (string.IsNullOrEmpty(spriteName) ? "" : "_" + spriteName));
+        actorImage.sprite = portraitAtlas.GetSprite(_currentDialog.Actor + (string.IsNullOrEmpty(spriteName) ? "_0" : "_" + spriteName));
     }
     
     // Called by animator when every dialog is over

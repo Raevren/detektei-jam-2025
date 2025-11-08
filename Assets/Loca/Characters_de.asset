@@ -26,6 +26,10 @@ MonoBehaviour:
     m_Localized: Henry Habicht
     m_Metadata:
       m_Items: []
+  - m_Id: 326986240057344
+    m_Localized: Miss Miau
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
