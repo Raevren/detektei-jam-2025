@@ -108,7 +108,7 @@ Plan
     - Entwicklung der Pinnwand:
         - Neuer Hinweis: Schlammige Fußspuren
         - Neuer Hinweis: Kurt Kroko
-        - Ziel für nächsten Hinweis: Verbinung zu Karl Kroko herstellen
+    - Ziel für nächsten Hinweis: Verbinung zu Karl Kroko herstellen
 
 
 
