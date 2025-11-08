@@ -55,7 +55,7 @@ MonoBehaviour:
       <DialogKey>k__BackingField: 1_13
     - <ActorSpriteSuffix>k__BackingField: 
       <DialogKey>k__BackingField: 1_11
-  - <Actor>k__BackingField: 6
+  - <Actor>k__BackingField: 0
     <Lines>k__BackingField:
     - <ActorSpriteSuffix>k__BackingField: 
       <DialogKey>k__BackingField: 1_14
