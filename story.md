@@ -95,8 +95,8 @@ Plan
           er bestimmt was auf dem Löffel.
 
 - Zusammenfassung:
-  - Miez befragt Pfeffer, stellt Unschuld fest
-  - Löffel und Feder führen zu Karl und Henry
+    - Miez befragt Pfeffer, stellt Unschuld fest
+    - Löffel und Feder führen zu Karl und Henry
 - Entiwcklung der Pinnwand:
     - Neuer Hinweis: Marmeladenlöffel
     - Neuer Hinweis: Kleine Feder

@@ -12,4 +12,42 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4790d7d0117446ce8e1667feafec584f, type: 3}
   m_Name: 2
   m_EditorClassIdentifier: 
-  <Dialogs>k__BackingField: []
+  <Dialogs>k__BackingField:
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 2_0
+  - <Actor>k__BackingField: 4
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 2_1
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 2_2
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 2_3
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 2_4
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 2_5
+  - <Actor>k__BackingField: 4
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 2_6
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 2_7
+  - <Actor>k__BackingField: 4
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 2_8
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 2_9
+  - <Actor>k__BackingField: 4
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 2_10

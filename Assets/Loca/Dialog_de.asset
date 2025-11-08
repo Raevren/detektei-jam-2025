@@ -147,7 +147,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 346093970743296
-    m_Localized: "JA!\n Ich sah Karl Nikel vorbeih\xFCpfen."
+    m_Localized: "JA!\n Ich sah Karl vorbeih\xFCpfen."
     m_Metadata:
       m_Items: []
   - m_Id: 346639431589888
@@ -192,6 +192,51 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 352024905342976
     m_Localized: "Wenn der L\xF6ffel doch nur redne k\xF6nnte ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366874511499264
+    m_Localized: Karl? Bleib mal kurz stehen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368085864243200
+    m_Localized: "Oh! \xC4h\u2014Mietz!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368464949633024
+    m_Localized: "Ich... ich schw\xF6re, ich war\u2019s nicht!\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368531349659648
+    m_Localized: Ich hab nur meinen Schuh gesucht!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368748803350528
+    m_Localized: Im Matsch?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368821096374272
+    m_Localized: Mitten in der Nacht?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369201398112256
+    m_Localized: "\xC4h... ja! Und da sah ich Kurt Kroko joggen. \nDirekt vor Miss
+      Miaus Haus!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369504738566144
+    m_Localized: Kurt Kroko also... interessant.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369643138015232
+    m_Localized: "Und es roch so stark nach Erdbeeren... \nIch bekam richtig Hunger!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369781290000384
+    m_Localized: "Diese Fu\xDFspuren hier stammen wohl von dir?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369971703013376
+    m_Localized: "U-uh... ja. \nAber ehrlich, ich bin unschuldig!"
     m_Metadata:
       m_Items: []
   references:
