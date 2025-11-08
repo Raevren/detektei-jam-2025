@@ -91,7 +91,24 @@ Plan
         - Neuer Hinweis: Kleine Feder
         - Neuer Hinweis: Karl Nikel
         - Neuer Hinweis: Henry Habicht
-  - Ziel für nächsten Hinweis: Marmeladenlöffel mit Karl und Henry verbinden, Kleine Feder mit Henry verbinden
+  - Ziel für nächsten Hinweis: Marmeladenlöffel mit Karl verbinden
+4. „Der Sprunghafte Zeuge“ (Vorgarten von Miss Miau)
+    - Dialog:
+        - Miez: Karl Nikel? Bleib mal kurz stehen!
+        - Karl: Oh! Äh—Mietz! Ich... ich schwöre, ich war’s nicht! Ich hab nur meinen Schuh gesucht!
+        - Miez: Im Matsch? Mitten in der Nacht?
+        - Karl: Äh... ja! Und da sah ich Kurt Kroko joggen. Direkt vor Miss Miaus Haus!
+        - Miez: Kurt Kroko also... interessant.
+        - Karl: Und es roch so stark nach Erdbeeren... ich bekam richtig Hunger!
+        - Miez: Diese Fußspuren hier stammen wohl von dir?
+        - Karl: U-uh... ja. Aber ehrlich – ich bin unschuldig!
+    - Zusammenfassung:
+        - Miez befragt Karl
+        - Kurt verdächtig
+    - Entwicklung der Pinnwand:
+        - Neuer Hinweis: Schlammige Fußspuren
+        - Neuer Hinweis: Kurt Kroko
+        - Ziel für nächsten Hinweis: Verbinde Kurt Karl mit Kurt Kroko
 
 
 
