@@ -31,8 +31,8 @@ Kannst du alle Hinweise finden und das Rätsel um die verschwundene Erdbeermarme
 |------------|----------------------------------|
 | **Selina** | Programmierung · Art · Story      |
 | **Nico**   | Programmierung · Musik · Sound    |
-| **Johanna**| Art & Charakterdesign             |
-| **Pascal** | Programmierung · Shader & Effekte |
+| **Johanna**| Art                               |
+| **Pascal** | Programmierung                    |
 
 ## 🔗 Everything is connected
 Und manchmal... ist die Spur näher, als du denkst. 🐾
