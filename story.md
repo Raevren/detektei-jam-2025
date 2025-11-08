@@ -135,6 +135,7 @@ Plan
         - Neuer Hinweis: Henrys Erdbeerduft  
         - Zoe Ziege (neuer Verdacht)  
   - Ziel für den nächsten Hinweis: Zoe befragen
+7. Zoe Ziege - Die Meckernde Rivalin (Ermittlungen auf dem Hof)
 
 
 
