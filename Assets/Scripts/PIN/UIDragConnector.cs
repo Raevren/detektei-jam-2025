@@ -50,6 +50,7 @@ namespace PIN
             rt.sizeDelta = Vector2.zero;
 
             _lineRenderer = lineRendererGo.AddComponent<UILineRenderer>();
+            _lineRenderer.color = Color.black;
 
             _lineRenderer.SetPoints(new List<Vector2[]>());
         }

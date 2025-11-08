@@ -75,12 +75,9 @@ Plan
        - Neuer Hinweis: Miss Miau
        - Neuer Hinweis: Pfeffer Pig
    - Ziel für nächsten Hinweis: Miau mit Pfeffer verbinden
-  3. Im Garten von Miss Miau
+  3. Pfeffer Pig - Die Rivalin
      - Dialog
-       - Miez: Aha... Miss Miaus Garten. Marmeladenduft in der Luft – aber keine Marmelade weit und breit. Zeit, mit der ersten Verdächtigen zu sprechen...
-       - Pfeffer: [empört] Ich hörte, du suchst den Marmeladendieb – und Miss Miau glaubt, ich wär’s?! Nur weil ich jedes Jahr verliere, heißt das nicht, dass ich klauen muss!
-       - Miez: Ganz ruhig, Pfeffer. Ich sag ja nicht, dass du’s warst... noch nicht.
-       - Pfeffer: Hmpf. Typisch. Dabei hab ich gestern spät noch im Garten gearbeitet – ich wollte frische Erdbeeren für meine neue Marmelade pflücken!
+       - Pfeffer: [empört] Ich hörte, du suchst den Marmeladendieb – und Miss Miau glaubt, ich wär’s?! Nur weil ich jedes Jahr verliere, heißt das nicht, dass ich klauen muss! Dabei hab ich gestern spät noch im Garten gearbeitet – ich wollte frische Erdbeeren für meine neue Marmelade pflücken!
        - Miez: Aha, spätabends also. Hast du sonst noch jemanden gesehen?
        - Pfeffer: Jetzt, wo du’s sagst... ja! Ich sah Karl Nikel vorbeihüpfen. Der hatte’s ganz schön eilig. Ich dachte, er wär auf dem Weg zur Bäckerei – aber wer weiß. Schau doch, zwischen den Erdbeeren... da liegt irgendwas.
        - Miez: [geht hin, inspiziert den Boden, findet Löffel und Feder.] Hm... ein Löffel. Mit Marmeladenreste dran. Und eine Feder?!
@@ -94,7 +91,25 @@ Plan
         - Neuer Hinweis: Kleine Feder
         - Neuer Hinweis: Karl Nikel
         - Neuer Hinweis: Henry Habicht
-  - Ziel für nächsten Hinweis: Marmeladenlöffel mit Karl und Henry verbinden, Kleine Feder mit Henry verbinden
+  - Ziel für nächsten Hinweis: Verbinde Pfeffer Pig mit Henry Habicht oder Karl Nikel.
+4. Karl Nikkel - Der sprunghafte Zeuge (Vorgarten von Miss Miau)
+    - Dialog:
+        - Miez: Karl Nikel? Bleib mal kurz stehen!
+        - Karl: Oh! Äh—Mietz! Ich... ich schwöre, ich war’s nicht! Ich hab nur meinen Schuh gesucht!
+        - Miez: Im Matsch? Mitten in der Nacht?
+        - Karl: Äh... ja! Und da sah ich Kurt Kroko joggen. Direkt vor Miss Miaus Haus!
+        - Miez: Kurt Kroko also... interessant.
+        - Karl: Und es roch so stark nach Erdbeeren... ich bekam richtig Hunger!
+        - Miez: Diese Fußspuren hier stammen wohl von dir?
+        - Karl: U-uh... ja. Aber ehrlich – ich bin unschuldig!
+    - Zusammenfassung:
+        - Miez befragt Karl
+        - Kurt verdächtig
+    - Entwicklung der Pinnwand:
+        - Neuer Hinweis: Schlammige Fußspuren
+        - Neuer Hinweis: Kurt Kroko
+    - Ziel für nächsten Hinweis: Verbinung zu Karl Kroko herstellen
+5. 
 
 
 

@@ -575,7 +575,7 @@ MonoBehaviour:
   _connectors:
   - {fileID: 791838285}
   - {fileID: 619785642}
-  startDialog: {fileID: 11400000, guid: ade5e4a10a265d242ab241758dd18a84, type: 2}
+  startDialog: {fileID: 11400000, guid: 3bc3eeb8050f0f8479700454061917c2, type: 2}
 --- !u!114 &674351142
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1106,10 +1106,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  thickness: 5
+  thickness: 25
 --- !u!222 &1204776281
 CanvasRenderer:
   m_ObjectHideFlags: 0
