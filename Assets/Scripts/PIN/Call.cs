@@ -37,7 +37,9 @@ public class Call : MonoBehaviour
 
     private void OnStepCompleted(HintStep hintStep)
     {
-        // TODO actually progress
-        Debug.Log("Hint Step completed: " + hintStep.name);
+        foreach (var hint in hintStep.HintsToUnlock)
+        {
+            _hintManager.UnlockHint(hint);
+        }
     }
 }

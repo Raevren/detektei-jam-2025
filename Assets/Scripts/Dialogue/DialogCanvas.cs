@@ -50,6 +50,7 @@ public class DialogCanvas : MonoBehaviour
             _instance.End(true);
         }
         _instance = this;
+        _onEnd = onEnd;
         _anim = GetComponent<Animator>();
         GetComponent<Canvas>().worldCamera = Camera.main;
         _sequence = sequence;
