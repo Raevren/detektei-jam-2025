@@ -122,7 +122,7 @@ Plan
       - Neuer Hinweis: Verdacht auf Henry Habicht wird stärker
     - Ziel: Henry Habicht befragen.
 6. Henry Habicht – Der Gourmet-Juror (Interview im Marmeladenjury-Zelt)
-  - Dialog:
+  - Dialog:  
         - Miez: Henry Habicht, Jury-Mitglied, richtig?
         - Henry: [räuspert sich] Äh… ja. Warum fragen Sie, Detective?
         - Miez: Weil Sie verdächtig nach Erdbeeren duften.
