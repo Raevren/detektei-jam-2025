@@ -61,8 +61,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 323577218818048
-    m_Localized: "Uiuiui, schrei doch nicht so! \U0001F635\u200D\U0001F4AB Atme erstmal
-      durch und erz\xE4hl mir in Ruhe, was passiert ist."
+    m_Localized: "Uiuiui, schrei doch nicht so! Atme erstmal durch und erz\xE4hl
+      mir in Ruhe, was passiert ist."
     m_Metadata:
       m_Items: []
   - m_Id: 324059911905280
@@ -79,13 +79,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 324445708181504
-    m_Localized: "Ach der! Ja, stimmt \u2013 da hing doch ein Plakat in der B\xE4ckerei."
+    m_Localized: "Ach der! Ja, stimmt, da hing doch ein Plakat in der B\xE4ckerei."
     m_Metadata:
       m_Items: []
   - m_Id: 325234119892992
     m_Localized: "Genau der! Jedenfalls war heute Morgen meine Hintert\xFCr der K\xFCche
-      offen \u2013 und \xFCberall klebten Marmeladenflecken! Meine Marmelade ist
-      weg!"
+      offen und \xFCberall klebten Marmeladenflecken! Meine Marmelade ist weg!"
     m_Metadata:
       m_Items: []
   - m_Id: 325327443156992
@@ -103,8 +102,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 325931011891200
-    m_Localized: "Ich wette, Pfeffer Pig steckt dahinter \u2013 meine ewige Rivalin!
-      Sie wird immer nur Zweite..."
+    m_Localized: Ich wette, Pfeffer Pig steckt dahinter, meine ewige Rivalin! Sie
+      wird immer nur Zweite...
     m_Metadata:
       m_Items: []
   - m_Id: 326040038629376
