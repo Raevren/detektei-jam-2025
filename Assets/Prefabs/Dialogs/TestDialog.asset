@@ -13,6 +13,10 @@ MonoBehaviour:
   m_Name: TestDialog
   m_EditorClassIdentifier: 
   <Dialogs>k__BackingField:
+  - <Actor>k__BackingField: 11
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: miez_secondbox
   - <Actor>k__BackingField: 0
     <Lines>k__BackingField:
     - <ActorSpriteSuffix>k__BackingField: 
@@ -21,7 +25,3 @@ MonoBehaviour:
       <DialogKey>k__BackingField: miez_two
     - <ActorSpriteSuffix>k__BackingField: 
       <DialogKey>k__BackingField: miez_three
-  - <Actor>k__BackingField: 0
-    <Lines>k__BackingField:
-    - <ActorSpriteSuffix>k__BackingField: happy
-      <DialogKey>k__BackingField: miez_secondbox
