@@ -109,7 +109,19 @@ Plan
         - Neuer Hinweis: Schlammige Fußspuren
         - Neuer Hinweis: Kurt Kroko
     - Ziel für nächsten Hinweis: Verbinung zu Karl Kroko herstellen
-5. 
+5. Kurt Kroko - Der Jogger mit Durchblick (Ermittlungen am Flussufer)
+    - Dialog:
+      - Mietz: Kurt Kroko? Was machst du da – und ist das ein Vogel auf deinem Kopf?
+      - Kurt: Joggen mit Peter Piep. Wir sahen nachts Licht in Miss Miaus Küche.
+      - Peter Piep: Und was Glitzerndes durchs Fenster!
+      - Mietz: Marmelade?
+      - Peter Piep: [piepst] Genau! Und die Feder da – die ist nicht meine!
+    - Entwicklung der Pinnwand:
+      - Neuer Hinweis: Feder gehört nicht zu Peter Piep
+      - Neuer Hinweis: Jemand war nachts in der Küche
+      - Neuer Hinweis: Verdacht auf Henry Habicht wird stärker
+    - Ziel: Henry Habicht befragen.
+6. Henry Habicht – Der Gourmet-Juror (Interview im Marmeladenjury-Zelt)
 
 
 
