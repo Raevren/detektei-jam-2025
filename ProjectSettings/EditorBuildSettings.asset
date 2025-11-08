@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/default.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/PIN_SCENE.unity
+    guid: 6b557811856534213b0da3ec6ae0c062
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: afd40942baf71b3448350715f55303c3, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
