@@ -15,3 +15,5 @@ MonoBehaviour:
   titleKey: hint_title_test01
   hints:
   - {fileID: 11400000, guid: eccb053e3015b4ef181bd41a07a9e634, type: 2}
+  fallbackDialogs:
+  - {fileID: 11400000, guid: ade5e4a10a265d242ab241758dd18a84, type: 2}

@@ -4,6 +4,7 @@ using System.Linq;
 using PIN;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class HintManager : MonoBehaviour
 {
@@ -12,6 +13,9 @@ public class HintManager : MonoBehaviour
 
     [SerializeField]
     private TMP_Text _description;
+
+    [SerializeField] 
+    private Image _image;
 
     [SerializeField]
     private UILineRenderer _lineRenderer;
@@ -22,6 +26,9 @@ public class HintManager : MonoBehaviour
     private RectTransform _rectTransform;
     
     private List<string> _hintConnectionsKeys = new();
+    
+    public Hint CurrentHint { get; private set; }
+    public HintStep CurrentHintStep { get; private set; }
 
     private void Init()
     {
@@ -84,8 +91,10 @@ public class HintManager : MonoBehaviour
     
     public void ShowHint(Hint hint)
     {
+        CurrentHint = hint;
         var key = "hints_" + hint.name;
         var currentHintStep = PlayerPrefs.GetInt(key, 0);
+        CurrentHintStep = hint.hints[currentHintStep];
 
         if (hint.hints == null || hint.hints.Length == 0)
         {
@@ -107,11 +116,20 @@ public class HintManager : MonoBehaviour
             Debug.LogWarning("[HintManager] ShowHint: _title TMP_Text is not assigned");
 
         if (_description != null)
-            _description.text = hint.hints[currentHintStep].GetDescription ?? string.Empty;
+            _description.text = CurrentHintStep.GetDescription ?? string.Empty;
         else
             Debug.LogWarning("[HintManager] ShowHint: _description TMP_Text is not assigned");
+        
+        ShowHintSubBar();
 
         Debug.Log($"[HintManager] ShowHint: Showing hint '{hint.name}' step {currentHintStep}/{hint.hints.Length}. Title='{hint.GetTitle}'");
+    }
+    
+    private void ShowHintSubBar()
+    {
+        // Hint image
+        _image.gameObject.SetActive(CurrentHintStep.HintImage != null);
+        if(_image.gameObject.activeSelf) _image.sprite = CurrentHintStep.HintImage;
     }
 
     public bool AddHintConnection(Hint hintOne, Hint hintTwo)

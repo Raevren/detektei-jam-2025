@@ -35,6 +35,22 @@ MonoBehaviour:
     m_Localized: Hallo, hier bin ich wieder!
     m_Metadata:
       m_Items: []
+  - m_Id: 285281935745024
+    m_Localized: Moin, Henry!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 285388227796992
+    m_Localized: Miez... Ich schaue, gerade RTL, lass mich in Frieden!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 285665500651520
+    m_Localized: Oh, okay..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 285688590295040
+    m_Localized: "Viel Spa\xDF noch, Henry."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

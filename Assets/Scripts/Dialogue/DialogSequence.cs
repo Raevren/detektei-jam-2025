@@ -22,4 +22,5 @@ public class CharacterDialog
 public enum DialogActor
 {
     DetectiveMiez,
+    HenryHabicht,
 }

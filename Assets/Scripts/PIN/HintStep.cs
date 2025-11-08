@@ -5,9 +5,13 @@ using UnityEngine.Localization.Settings;
 public class HintStep : ScriptableObject
 {
     [SerializeField] private string key;
+
+    [field: SerializeField] public DialogSequence CompletedDialog { get; private set; }
     
     [field: SerializeField] public Hint[] NeededConnectedHints { get; private set; }
     [field: SerializeField] public Hint[] AlternativeConnectedHints { get; private set; }
+    
+    [field: SerializeField] public Sprite HintImage { get; private set; }
     
     /// <summary>
     /// Load description from loca
