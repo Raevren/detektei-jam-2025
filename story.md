@@ -75,8 +75,26 @@ Plan
        - Neuer Hinweis: Miss Miau
        - Neuer Hinweis: Pfeffer Pig
    - Ziel für nächsten Hinweis: Miau mit Pfeffer verbinden
-
-
+  3. Im Garten von Miss Miau
+     - Dialog
+       - Miez: Aha... Miss Miaus Garten. Marmeladenduft in der Luft – aber keine Marmelade weit und breit. Zeit, mit der ersten Verdächtigen zu sprechen...
+       - Pfeffer: [empört] Ich hörte, du suchst den Marmeladendieb – und Miss Miau glaubt, ich wär’s?! Nur weil ich jedes Jahr verliere, heißt das nicht, dass ich klauen muss!
+       - Miez: Ganz ruhig, Pfeffer. Ich sag ja nicht, dass du’s warst... noch nicht.
+       - Pfeffer: Hmpf. Typisch. Dabei hab ich gestern spät noch im Garten gearbeitet – ich wollte frische Erdbeeren für meine neue Marmelade pflücken!
+       - Miez: Aha, spätabends also. Hast du sonst noch jemanden gesehen?
+       - Pfeffer: Jetzt, wo du’s sagst... ja! Ich sah Karl Nikel vorbeihüpfen. Der hatte’s ganz schön eilig. Ich dachte, er wär auf dem Weg zur Bäckerei – aber wer weiß. Schau doch, zwischen den Erdbeeren... da liegt irgendwas.
+       - Miez: [geht hin, inspiziert den Boden, findet Löffel und Feder.] Hm... ein Löffel. Mit Marmeladenreste dran. Und eine Feder?!
+       - Pfeffer Pig: Siehst du? Ich sag ja – ich hab nix damit zu tun! Vielleicht war’s ja jemand Geflügeltes?
+       - Miez: Hm. Eine Feder also... sehr verdächtig. Wir werden sehen, Pfeffer. Wenn der Löffel reden könnte, hätte er bestimmt was auf dem Löffel.
+  - Zusammenfassung:
+        - Miez befragt Pfeffer, stellt Unschuld fest
+        - Löffel und Feder führen zu Karl und Henry
+  -   Entiwcklung der Pinnwand:
+        - Neuer Hinweis: Marmeladenlöffel
+        - Neuer Hinweis: Kleine Feder
+        - Neuer Hinweis: Karl Nikel
+        - Neuer Hinweis: Henry Habicht
+  - Ziel für nächsten Hinweis: Marmeladenlöffel mit Karl und Henry verbinden, Kleine Feder mit Henry verbinden
 
 
 
