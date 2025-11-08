@@ -47,15 +47,8 @@ public class HintManager : MonoBehaviour
         _rectTransform = _lineRenderer.gameObject.GetComponent<RectTransform>();
        
         var raw = PlayerPrefs.GetString("hint_connections", "");
-        Debug.Log($"[HintManager] Start: raw saved hint_connections='{raw}'");
         _hintConnectionsKeys = new List<string>(raw.Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries));
 
-        Debug.Log($"[HintManager] Start: rectTransform={( _rectTransform != null ? "ok" : "null")}, loaded { _hintConnectionsKeys.Count} connection keys.");
-        if (_hintConnectionsKeys.Count > 0)
-        {
-            Debug.Log($"[HintManager] Loaded hint connections: {string.Join(",", _hintConnectionsKeys)}");
-        }
-        
         foreach (var key in _hintConnectionsKeys)
         {
             // Split at last underscore to allow hint names that may contain underscores
@@ -84,7 +77,14 @@ public class HintManager : MonoBehaviour
 
             _lineRenderer.AddPoints(new[] { uiA, uiB });
             Canvas.ForceUpdateCanvases();
-            Debug.Log($"[HintManager] Start: recreated connection '{key}' with ui points {uiA} - {uiB}, color={_lineRenderer.color}");
+            
+            foreach (var uiDragConnector in new[]{ connectorA, connectorB })
+            {
+                if (HintStepHasNewDialog(uiDragConnector.Hint))
+                {
+                    StartCoroutine(uiDragConnector.ShowDialogAvailable());
+                }
+            }
         }
     }
 
@@ -207,6 +207,13 @@ public class HintManager : MonoBehaviour
                 uiPosTwo
             });
             Debug.Log($"[HintManager] AddHintConnection: added points, color={_lineRenderer.color}");
+            foreach (var uiDragConnector in new[]{ connectorOne, connectorTwo })
+            {
+                if (HintStepHasNewDialog(uiDragConnector.Hint))
+                {
+                    StartCoroutine(uiDragConnector.ShowDialogAvailable());
+                }
+            }
         }
         catch (Exception ex)
         {
@@ -222,6 +229,17 @@ public class HintManager : MonoBehaviour
 
         Debug.Log($"[HintManager] AddHintConnection: connection '{key}' added and saved. Total connections: {_hintConnectionsKeys.Count}");
         return true;
+    }
+
+    public bool HintStepHasNewDialog(Hint hint)
+    {
+        var hintKey = "hints_" + hint.name;
+        var currentHintStepIndex = PlayerPrefs.GetInt(hintKey, 0);
+        var currentHintStep = hint.hints[currentHintStepIndex];
+        
+        var completed = IsHintStepCompleted(hint, currentHintStep);
+        var islocked = currentHintStep.HintsToUnlock.Any(hint1 => !_unlockedHints.Contains(hint1.name));
+        return completed && islocked;
     }
 
     private string BuildHintKey(Hint hint1, Hint hint2)

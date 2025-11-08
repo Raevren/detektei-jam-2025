@@ -15,6 +15,8 @@ namespace PIN
         
         [SerializeField]
         private Sprite _alternativeSprite;
+        [SerializeField]
+        private Sprite _alternativeSpriteTwo;
         
         public Hint Hint => _hint;
 
@@ -35,6 +37,28 @@ namespace PIN
             if(_hintManager.HasUncompletedHintSteps(_hint))
             {
                 StartCoroutine(Animate());
+            }
+        }
+
+        public IEnumerator ShowDialogAvailable()
+        {
+            while (_hintManager is null)
+            {
+                yield return new WaitForFixedUpdate();
+            }
+            
+            var image = gameObject.GetComponent<Image>();
+            var originalSprite = image.sprite;
+            
+            while (_hintManager.HintStepHasNewDialog(_hint))
+            {
+                // Wechsel zu alternativer Sprite
+                image.sprite = _alternativeSpriteTwo;
+                yield return new WaitForSeconds(0.5f);
+
+                // Zurück zur Original-Sprite
+                image.sprite = originalSprite;
+                yield return new WaitForSeconds(0.5f);
             }
         }
 
