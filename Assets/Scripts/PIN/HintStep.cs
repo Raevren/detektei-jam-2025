@@ -4,8 +4,6 @@ using UnityEngine.Localization.Settings;
 [CreateAssetMenu(fileName = "HintStep", menuName = "Scriptable Objects/HintStep")]
 public class HintStep : ScriptableObject
 {
-    [SerializeField] private string key;
-
     [field: SerializeField] public DialogSequence CompletedDialog { get; private set; }
     [field: SerializeField] public Hint[] HintsToUnlock { get; private set; }
     
@@ -17,5 +15,5 @@ public class HintStep : ScriptableObject
     /// <summary>
     /// Load description from loca
     /// </summary>
-    public string GetDescription => LocalizationSettings.StringDatabase.GetLocalizedString("Hints", key);
+    public string GetDescription => LocalizationSettings.StringDatabase.GetLocalizedString("Hints", name);
 }
