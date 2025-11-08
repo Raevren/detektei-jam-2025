@@ -92,7 +92,7 @@ public class HintManager : MonoBehaviour
     {
         Init();
 
-        if (_hintConnectionsKeys.Count == 0)
+        if (_unlockedHints.Count == 0)
         {
             DialogCanvas.Spawn(startDialog, () =>
             {
@@ -121,6 +121,8 @@ public class HintManager : MonoBehaviour
         _unlockedHints.Add(hint.name);
         var connection = FindConnectorByHintName(hint.name);
         connection.gameObject.SetActive(true);
+        PlayerPrefs.SetString("hint_unlocked", string.Join(",", _unlockedHints));
+        PlayerPrefs.Save();
     }
     
     public void ShowHint(Hint hint)
