@@ -22,6 +22,8 @@ public class HintManager : MonoBehaviour
     
     [SerializeField]
     private UIDragConnector[] _connectors;
+
+    [SerializeField] private DialogSequence startDialog;
     
     private RectTransform _rectTransform;
     
@@ -79,6 +81,11 @@ public class HintManager : MonoBehaviour
     private void Start()
     {
         Init();
+
+        if (_hintConnectionsKeys.Count == 0)
+        {
+            DialogCanvas.Spawn(startDialog);
+        }
     }
 
     public bool IsHintStepCompleted(Hint hint, HintStep step)
