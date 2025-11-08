@@ -12,7 +12,7 @@ Kannst du alle Hinweise finden und das Rätsel um die verschwundene Erdbeermarme
 
 ## 💡 Thema
 "Everything is connected"  
--> entwickelt im Rahmen des Hetzner Game Jam 2025
+-> entwickelt im Rahmen des Franken Game Jam 2025
 
 ## 🛠️ Technologien
 - Engine: Unity 6
