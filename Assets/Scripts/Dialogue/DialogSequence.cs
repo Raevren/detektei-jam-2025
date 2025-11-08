@@ -30,5 +30,6 @@ public enum DialogActor
     pfefferPig,
     pherdiPhuchs,
     professorBello,
-    zoeZiege
+    zoeZiege,
+    telephone,
 }

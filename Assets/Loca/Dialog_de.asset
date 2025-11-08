@@ -115,6 +115,10 @@ MonoBehaviour:
     m_Localized: Oh danke, Miez! Du bist meine letzte Hoffnung...
     m_Metadata:
       m_Items: []
+  - m_Id: 341197817110528
+    m_Localized: Riiiiiiiing, Riiiiiiiing, Riiiiiiiing, ...
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

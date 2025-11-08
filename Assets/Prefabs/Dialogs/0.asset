@@ -13,6 +13,10 @@ MonoBehaviour:
   m_Name: 0
   m_EditorClassIdentifier: 
   <Dialogs>k__BackingField:
+  - <Actor>k__BackingField: 10
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: -1
   - <Actor>k__BackingField: 2
     <Lines>k__BackingField:
     - <ActorSpriteSuffix>k__BackingField: 
