@@ -68,6 +68,7 @@ public class DialogCanvas : MonoBehaviour
         _isTalking = true;
         while (dialogText.maxVisibleCharacters < dialogText.text.Length)
         {
+            SoundSystem.Instance.PlayGenericSfx(CommonSfx.TextM);
             dialogText.maxVisibleCharacters += 3;
             yield return new WaitForSeconds(0.05f);
         }
@@ -89,6 +90,7 @@ public class DialogCanvas : MonoBehaviour
     /// </summary>
     private void OnClickAdvance()
     {
+        SoundSystem.Instance.PlayGenericSfx(CommonSfx.Submit);
         if(_isTalking)
             SkipText();
         else
