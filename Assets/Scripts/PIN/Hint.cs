@@ -1,10 +1,15 @@
 using UnityEngine;
+using UnityEngine.Localization.Settings;
 
 [CreateAssetMenu(fileName = "Hint", menuName = "Scriptable Objects/Hint")]
 public class Hint : ScriptableObject
 {
-    [TextArea(3, 10)]
-    public string hintTitle;
+    [SerializeField] private string titleKey;
     
-    public HintStep[] hints;
+    [field: SerializeField] public HintStep[] hints;
+    
+    /// <summary>
+    /// Load title from loca
+    /// </summary>
+    public string GetTitle => LocalizationSettings.StringDatabase.GetLocalizedString("Hints", titleKey);
 }

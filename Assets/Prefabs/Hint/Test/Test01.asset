@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e8e3b8bf17dd4f2b8c5758b681c2247, type: 3}
   m_Name: Test01
   m_EditorClassIdentifier: 
-  hintTitle: Test 01
+  titleKey: hint_title_test01
   hints:
   - {fileID: 11400000, guid: eccb053e3015b4ef181bd41a07a9e634, type: 2}

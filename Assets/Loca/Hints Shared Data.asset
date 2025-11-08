@@ -10,31 +10,31 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
-  m_Name: General Shared Data
+  m_Name: Hints Shared Data
   m_EditorClassIdentifier: 
-  m_TableCollectionName: General
-  m_TableCollectionNameGuidString: 7e259cf820203684f980e5bf17b4840a
+  m_TableCollectionName: Hints
+  m_TableCollectionNameGuidString: 574fc76765b76f94abbba60e4ad4015c
   m_Entries:
-  - m_Id: 6839918592
-    m_Key: ui_next
+  - m_Id: 536710537216
+    m_Key: hint_title_test01
     m_Metadata:
       m_Items: []
-  - m_Id: 261991586390016
-    m_Key: ui_header_hint
+  - m_Id: 673314824192
+    m_Key: hint_step_test01
     m_Metadata:
       m_Items: []
-  - m_Id: 262051741097984
-    m_Key: ui_description_hint
+  - m_Id: 794492461056
+    m_Key: hint_title_test02
     m_Metadata:
       m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
-    rid: 6910812287362924806
+    rid: 6910812305237213464
   references:
     version: 2
     RefIds:
-    - rid: 6910812287362924806
+    - rid: 6910812305237213464
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
-        m_CustomEpoch: 1762549450981
+        m_CustomEpoch: 1762612060170

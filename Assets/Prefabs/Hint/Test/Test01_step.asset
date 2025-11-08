@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ffbc95c344114a3f8a79a9015a4b198, type: 3}
   m_Name: Test01_step
   m_EditorClassIdentifier: 
-  description: Erste descirption test
+  key: hint_step_test01

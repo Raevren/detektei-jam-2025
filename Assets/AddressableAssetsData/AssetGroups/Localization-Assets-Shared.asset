@@ -15,6 +15,11 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Shared
   m_GUID: 1dbb59a0e20cb4f40a4eeb8401bad591
   m_SerializeEntries:
+  - m_GUID: 574fc76765b76f94abbba60e4ad4015c
+    m_Address: Assets/Loca/Hints Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7e259cf820203684f980e5bf17b4840a
     m_Address: Assets/Loca/General Shared Data.asset
     m_ReadOnly: 1
