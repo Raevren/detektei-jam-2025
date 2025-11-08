@@ -22,6 +22,10 @@ MonoBehaviour:
     m_Localized: Detektiv Miez
     m_Metadata:
       m_Items: []
+  - m_Id: 281492273029120
+    m_Localized: Henry Habicht
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

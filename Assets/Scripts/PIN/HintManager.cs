@@ -4,6 +4,7 @@ using System.Linq;
 using PIN;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class HintManager : MonoBehaviour
 {
@@ -12,6 +13,9 @@ public class HintManager : MonoBehaviour
 
     [SerializeField]
     private TMP_Text _description;
+
+    [SerializeField] 
+    private Image _image;
 
     [SerializeField]
     private UILineRenderer _lineRenderer;
@@ -22,6 +26,9 @@ public class HintManager : MonoBehaviour
     private RectTransform _rectTransform;
     
     private List<string> _hintConnectionsKeys = new();
+    
+    public Hint CurrentHint { get; private set; }
+    public HintStep CurrentHintStep { get; private set; }
 
     private void Init()
     {
@@ -74,10 +81,20 @@ public class HintManager : MonoBehaviour
         Init();
     }
 
+    public bool IsHintStepCompleted(Hint hint, HintStep step)
+    {
+        var failed = step.NeededConnectedHints.Select(stepNeededConnectedHint => BuildHintKey(hint, stepNeededConnectedHint)).Any(key => !_hintConnectionsKeys.Contains(key));
+        if (!failed) return true;
+        failed = step.AlternativeConnectedHints.Select(stepNeededConnectedHint => BuildHintKey(hint, stepNeededConnectedHint)).Any(key => !_hintConnectionsKeys.Contains(key));
+        return !failed;
+    }
+    
     public void ShowHint(Hint hint)
     {
+        CurrentHint = hint;
         var key = "hints_" + hint.name;
         var currentHintStep = PlayerPrefs.GetInt(key, 0);
+        CurrentHintStep = hint.hints[currentHintStep];
 
         if (hint.hints == null || hint.hints.Length == 0)
         {
@@ -99,21 +116,25 @@ public class HintManager : MonoBehaviour
             Debug.LogWarning("[HintManager] ShowHint: _title TMP_Text is not assigned");
 
         if (_description != null)
-            _description.text = hint.hints[currentHintStep].GetDescription ?? string.Empty;
+            _description.text = CurrentHintStep.GetDescription ?? string.Empty;
         else
             Debug.LogWarning("[HintManager] ShowHint: _description TMP_Text is not assigned");
+        
+        ShowHintSubBar();
 
         Debug.Log($"[HintManager] ShowHint: Showing hint '{hint.name}' step {currentHintStep}/{hint.hints.Length}. Title='{hint.GetTitle}'");
+    }
+    
+    private void ShowHintSubBar()
+    {
+        // Hint image
+        _image.gameObject.SetActive(CurrentHintStep.HintImage != null);
+        if(_image.gameObject.activeSelf) _image.sprite = CurrentHintStep.HintImage;
     }
 
     public bool AddHintConnection(Hint hintOne, Hint hintTwo)
     {
-        // Build a sorted pair key from the two hint names
-        var hintNames = new[] { hintOne.name, hintTwo.name };
-        Array.Sort(hintNames, StringComparer.Ordinal);
-        var key = string.Join("_", hintNames);
-
-        Debug.Log($"[HintManager] AddHintConnection: Attempting to add connection between '{hintNames[0]}' and '{hintNames[1]}', key='{key}'");
+        var key = BuildHintKey(hintOne, hintTwo);
 
         // Already exists?
         if (_hintConnectionsKeys.Any(existing => existing == key))
@@ -156,6 +177,14 @@ public class HintManager : MonoBehaviour
 
         Debug.Log($"[HintManager] AddHintConnection: connection '{key}' added and saved. Total connections: {_hintConnectionsKeys.Count}");
         return true;
+    }
+
+    private string BuildHintKey(Hint hint1, Hint hint2)
+    {
+        var hintNames = new[] { hint1.name, hint2.name };
+        Array.Sort(hintNames, StringComparer.Ordinal);
+        var key = string.Join("_", hintNames);
+        return key;
     }
 
     private Vector2 ToUISpace(RectTransform sourceRect)
