@@ -91,8 +91,7 @@ Plan
         - Neuer Hinweis: Kleine Feder
         - Neuer Hinweis: Karl Nikel
         - Neuer Hinweis: Henry Habicht
-  - Ziel für nächsten Hinweis: Marmeladenlöffel mit Karl verbinden
-  - Außerdem: Henry mit Feder verbinden
+  - Ziel für nächsten Hinweis: Verbinde Pfeffer Pig mit Henry Habicht oder Karl Nikel.
 4. „Der Sprunghafte Zeuge“ (Vorgarten von Miss Miau)
     - Dialog:
         - Miez: Karl Nikel? Bleib mal kurz stehen!
@@ -109,7 +108,7 @@ Plan
     - Entwicklung der Pinnwand:
         - Neuer Hinweis: Schlammige Fußspuren
         - Neuer Hinweis: Kurt Kroko
-        - Ziel für nächsten Hinweis: Verbinde Kurt Karl mit Kurt Kroko
+        - Ziel für nächsten Hinweis: Verbinung zu Karl Kroko herstellen
 
 
 
