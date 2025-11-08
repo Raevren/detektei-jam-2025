@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4790d7d0117446ce8e1667feafec584f, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  <Dialogs>k__BackingField:
+  - <Actor>k__BackingField: 2
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 0_0
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 0_1
+  - <Actor>k__BackingField: 2
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 0_2
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 0_3
+  - <Actor>k__BackingField: 2
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 0_4
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 0_5
+  - <Actor>k__BackingField: 2
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 0_6
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 0_7
+  - <Actor>k__BackingField: 2
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 0_8
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 0_9
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 0_10
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 0_11
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 0_12
