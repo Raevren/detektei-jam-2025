@@ -1,4 +1,5 @@
 ﻿# WIP
+
 Ort: Pfötchenhausen
 Kommende Ereignisse: Der jährliche Pfötchenhausener Marmeladenwettbewerb!
 Jedes Jahr wird im Herbst die beste Marmelade der Region ausgezeichnet. Der Gewinner erhält viel Jubel, Ruhm, Ehre und …
@@ -29,18 +30,57 @@ Charaktere:
 | Bruno Bör       | Bär. Ein entspannter Teddybär. Begeisterter Zuschauer des Marmeladenwettbewerbs.                                                                       | Er wollte schon immer miss Miaus Marmelade probieren, aber leider blieb noch nie etwas für ihn übrig.                                            | Trägt einen feschen Partyhut. Süßes mag er sehr gerne, genauso wie seine Bienenfreunde. Von Honig kann er nicht genug bekommen! Mit seinen großen Pranken hinterlässt er ab und an unbeabsichtigt Kratzer. |
 | Pfeffer Pig     | Schon lange versucht Pfeffer das geheime geheim Rezept von Miau zu kopieren. Aber es klappt einfach nicht!                                             | Nimmt selbst am Wettbewerb teil und möchte diesen gewinnen.                                                                                      | Sieht ein bisschen aus wie der beste Freund von Winni Pooh, nur etwas kräftiger.                                                                                                                           |
 
-Thema: 
+Thema:
 Miss Miau ist eine enge Freundin von Detective Miez.
 Miss Miaus preisgekrönte Erdbeer-Marmelade wurde gestohlen!
 Detective Miez soll den Dieb aufspüren und die Marmelade zurückholen.
 Professor Bello gibt ab und an hilfreiche Tipps.
 Die übrigen Charaktere sind Zeugen oder Täter.
 
-Tatort: 
--	Küche
--	Auf der Küchenzeile steht der leere ausgekratze Topf, in dem Miss Miau gestern die frische Marmelade für den Wettbewerb gekocht hat.
--	Miss Miau befüllte am Abend ein Einmachglas mit der Marmelade. Es blieb nur ein klitzekleiner Rest im Topf übrig.
--	Am Boden der Küche, direkt vor der Küchenzeile wurde ein loser Einmachglasdeckel gefunden! An diesem befinden sich Marmeladenspuren. Zudem sah er etwas angeknabbert aus.
--	An der Küchentür wurde eine kleine Feder gefunden.
--	Die Tür des Hauses war am Morgen angelehnt und nicht verschlossen.
--	Das Geheimrezept war nicht mehr in seinem Versteck! (Eine marmeladenförmige Sparbüchse)
+Tatort:
+
+- Küche
+- Auf der Küchenzeile steht der leere ausgekratze Topf, in dem Miss Miau gestern die frische Marmelade für den
+  Wettbewerb gekocht hat.
+- Miss Miau befüllte am Abend ein Einmachglas mit der Marmelade. Es blieb nur ein klitzekleiner Rest im Topf übrig.
+- Am Boden der Küche, direkt vor der Küchenzeile wurde ein loser Einmachglasdeckel gefunden! An diesem befinden sich
+  Marmeladenspuren. Zudem sah er etwas angeknabbert aus.
+- An der Küchentür wurde eine kleine Feder gefunden.
+- Die Tür des Hauses war am Morgen angelehnt und nicht verschlossen.
+- Das Geheimrezept war nicht mehr in seinem Versteck! (Eine marmeladenförmige Sparbüchse)
+- Im Garten, im Rasen, liegt ein mit Marmelade bekleckerter Löffel.
+
+Plan
+
+1. Start Button klicken
+2. [Telefon klingelt] Anruf von Miss Miau
+    - Dialog
+      - Miau: [panisch] Miez! Ich brauche dringend deine Hilfe! Meine Marmelade wurde heute Nacht gestohlen!
+      - Miez: Uiuiui, schrei doch nicht so! 😵‍💫 Atme erstmal durch und erzähl mir in Ruhe, was passiert ist.
+      - Miau: Also gut... Du weißt doch vom Marmeladenwettbewerb heute?
+      - Miez: Äh... welchem Wettbewerb?
+      - Miau: Na, dem Pfötchenhausener Marmeladenwettbewerb! Das wichtigste Ereignis des Jahres! Wie kannst du das nicht wissen?!
+      - Miez: Ach der! Ja, stimmt – da hing doch ein Plakat in der Bäckerei.
+      - Miau: Genau der! Jedenfalls war heute Morgen meine Hintertür der Küche offen – und überall klebten Marmeladenflecken! Meine Marmelade ist weg!
+      - Miez: Sicher, dass du sie nicht einfach verräumt hast?
+      - Miau: Auf keinen Fall! Ich bin die langjährige Marmeladenkönigin von Pfötchenhausen! Mein geheimes Erdbeermarmeladenrezept ist legendär. Und dieses Jahr muss ich wieder gewinnen! Ich wette, Pfeffer Pig steckt dahinter – meine ewige Rivalin! Sie wird immer nur Zweite...
+      - Miez: Hm... klingt verdächtig. Ich rede mit ihr und finde raus, was passiert ist.
+      - Miau: Oh danke, Miez! Du bist meine letzte Hoffnung...
+   - Zusammenfassung:
+       - Tatort: Küche, es sind Marmeladenflecken verteilt und die Hintertür ist geöffnet.
+       - Diebesgut: Marmelade
+       - Hintergrund: Marmelade wird für die Teilnahme am Wettbewerb benötigt
+       - Anschuldigung: Rivalin Pfeffer Pig, die sonst immer nur den 2. Platz macht
+   - Entwicklung der Pinnwand:
+       - Neuer Hinweis: Miss Miau
+       - Neuer Hinweis: Pfeffer Pig
+   - Ziel für nächsten Hinweis: Miau mit Pfeffer verbinden
+
+
+
+
+
+
+
+
+
