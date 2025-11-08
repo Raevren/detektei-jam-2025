@@ -92,6 +92,7 @@ Plan
         - Neuer Hinweis: Karl Nikel
         - Neuer Hinweis: Henry Habicht
   - Ziel für nächsten Hinweis: Marmeladenlöffel mit Karl verbinden
+  - Außerdem: Henry mit Feder verbinden
 4. „Der Sprunghafte Zeuge“ (Vorgarten von Miss Miau)
     - Dialog:
         - Miez: Karl Nikel? Bleib mal kurz stehen!
