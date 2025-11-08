@@ -2,7 +2,7 @@
 _Ein Detektiv-Spiel entwickelt beim Franken Game Jam 2025_
 
 ## Gameplay
-- Du spielst Detective Mietz in seinem neusten Fall.  Findest du alle Hinweise und kannst das Rätsel um die verschwundene Erdbeermarmelade lösen?
+- Du spielst als Detective Mietz, der klügste Kopf in Pfötchenhausen. Kannst du alle Hinweise finden und so das Rätsel um die verschwundene Erdbeermarmelade lösen?
 
 # Thema
 - "Everything is connected"
