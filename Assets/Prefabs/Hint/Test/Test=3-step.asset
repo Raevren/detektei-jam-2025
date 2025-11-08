@@ -10,13 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1ffbc95c344114a3f8a79a9015a4b198, type: 3}
-  m_Name: Test01_step
+  m_Name: Test=3-step
   m_EditorClassIdentifier: 
+  key: 
   <CompletedDialog>k__BackingField: {fileID: 0}
-  <HintsToUnlock>k__BackingField:
-  - {fileID: 11400000, guid: 22b3ec516c5734171b121c50c3b7e6bd, type: 2}
-  <NeededConnectedHints>k__BackingField:
-  - {fileID: 11400000, guid: 75585ade1132b428982a06a661459f47, type: 2}
-  <AlternativeConnectedHints>k__BackingField:
-  - {fileID: 11400000, guid: 364f1c877bab9449aa145676a0bc08cb, type: 2}
+  <HintsToUnlock>k__BackingField: []
+  <NeededConnectedHints>k__BackingField: []
+  <AlternativeConnectedHints>k__BackingField: []
   <HintImage>k__BackingField: {fileID: 0}
