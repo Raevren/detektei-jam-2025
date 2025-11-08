@@ -119,6 +119,81 @@ MonoBehaviour:
     m_Localized: Riiiiiiiing, Riiiiiiiing, Riiiiiiiing, ...
     m_Metadata:
       m_Items: []
+  - m_Id: 344661683036160
+    m_Localized: Guten Tag Frau Pfeffer. Ich bin hier um ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 344940881076224
+    m_Localized: "Ich h\xF6rte, du suchst den Marmeladendieb, und Miss Miau glaubt,
+      ICH W\xC4RS GEWESEN?!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345472899178496
+    m_Localized: "Nur weil ich jedes Jahr verliere, hei\xDFt das nicht, dass ich
+      klauen muss!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345630793752576
+    m_Localized: "Dabei hab ich gestern sp\xE4t noch im Garten gearbeitet, ich wollte
+      frische Erdbeeren f\xFCr meine neue Marmeladenkreation pfl\xFCcken!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345885601914880
+    m_Localized: "Aha, sp\xE4tabends also. Hast du sonst noch jemanden gesehen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 346042661822464
+    m_Localized: "Jetzt, wo du\u2019s sagst..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 346093970743296
+    m_Localized: "JA!\n Ich sah Karl Nikel vorbeih\xFCpfen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 346639431589888
+    m_Localized: "Der hatte\u2019s ganz sch\xF6n eilig. \nIch dachte, er w\xE4r auf
+      dem Weg zur B\xE4ckerei, \naber wer wei\xDF."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 347638493831168
+    m_Localized: "Schau doch in Miaus Garten, da hoppelte er durch. \nZwischen den
+      Erdbeeren... \nda gl\xE4nzt irgendwas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 349648404307968
+    m_Localized: '* Detective Miez geht in den Nachbargarten von Miss Miau *
+
+      Hmmmm.....'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 349863156867072
+    m_Localized: "... ein L\xF6ffel.\nMit Marmeladenresten dran."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 349968270319616
+    m_Localized: Und eine Feder?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350407585914880
+    m_Localized: "Siehst du? \nIch sag ja. \nIch hab nix damit zu tun!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350504050712576
+    m_Localized: "Vielleicht war\u2019s ja jemand Gefl\xFCgeltes?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351832437121024
+    m_Localized: "Hm.\nEine Feder also... sehr verd\xE4chtig. \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351997189382144
+    m_Localized: Wir werden sehen, Pfeffer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352024905342976
+    m_Localized: "Wenn der L\xF6ffel doch nur redne k\xF6nnte ..."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

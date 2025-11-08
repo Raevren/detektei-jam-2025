@@ -55,43 +55,55 @@ Plan
 1. Start Button klicken
 2. [Telefon klingelt] Anruf von Miss Miau
     - Dialog
-      - Miau: [panisch] Miez! Ich brauche dringend deine Hilfe! Meine Marmelade wurde heute Nacht gestohlen!
-      - Miez: Uiuiui, schrei doch nicht so! 😵‍💫 Atme erstmal durch und erzähl mir in Ruhe, was passiert ist.
-      - Miau: Also gut... Du weißt doch vom Marmeladenwettbewerb heute?
-      - Miez: Äh... welchem Wettbewerb?
-      - Miau: Na, dem Pfötchenhausener Marmeladenwettbewerb! Das wichtigste Ereignis des Jahres! Wie kannst du das nicht wissen?!
-      - Miez: Ach der! Ja, stimmt – da hing doch ein Plakat in der Bäckerei.
-      - Miau: Genau der! Jedenfalls war heute Morgen meine Hintertür der Küche offen – und überall klebten Marmeladenflecken! Meine Marmelade ist weg!
-      - Miez: Sicher, dass du sie nicht einfach verräumt hast?
-      - Miau: Auf keinen Fall! Ich bin die langjährige Marmeladenkönigin von Pfötchenhausen! Mein geheimes Erdbeermarmeladenrezept ist legendär. Und dieses Jahr muss ich wieder gewinnen! Ich wette, Pfeffer Pig steckt dahinter – meine ewige Rivalin! Sie wird immer nur Zweite...
-      - Miez: Hm... klingt verdächtig. Ich rede mit ihr und finde raus, was passiert ist.
-      - Miau: Oh danke, Miez! Du bist meine letzte Hoffnung...
-   - Zusammenfassung:
-       - Tatort: Küche, es sind Marmeladenflecken verteilt und die Hintertür ist geöffnet.
-       - Diebesgut: Marmelade
-       - Hintergrund: Marmelade wird für die Teilnahme am Wettbewerb benötigt
-       - Anschuldigung: Rivalin Pfeffer Pig, die sonst immer nur den 2. Platz macht
-   - Entwicklung der Pinnwand:
-       - Neuer Hinweis: Miss Miau
-       - Neuer Hinweis: Pfeffer Pig
-   - Ziel für nächsten Hinweis: Miau mit Pfeffer verbinden
-  3. Pfeffer Pig - Die Rivalin
-     - Dialog
-       - Pfeffer: [empört] Ich hörte, du suchst den Marmeladendieb – und Miss Miau glaubt, ich wär’s?! Nur weil ich jedes Jahr verliere, heißt das nicht, dass ich klauen muss! Dabei hab ich gestern spät noch im Garten gearbeitet – ich wollte frische Erdbeeren für meine neue Marmelade pflücken!
-       - Miez: Aha, spätabends also. Hast du sonst noch jemanden gesehen?
-       - Pfeffer: Jetzt, wo du’s sagst... ja! Ich sah Karl Nikel vorbeihüpfen. Der hatte’s ganz schön eilig. Ich dachte, er wär auf dem Weg zur Bäckerei – aber wer weiß. Schau doch, zwischen den Erdbeeren... da liegt irgendwas.
-       - Miez: [geht hin, inspiziert den Boden, findet Löffel und Feder.] Hm... ein Löffel. Mit Marmeladenreste dran. Und eine Feder?!
-       - Pfeffer Pig: Siehst du? Ich sag ja – ich hab nix damit zu tun! Vielleicht war’s ja jemand Geflügeltes?
-       - Miez: Hm. Eine Feder also... sehr verdächtig. Wir werden sehen, Pfeffer. Wenn der Löffel reden könnte, hätte er bestimmt was auf dem Löffel.
-  - Zusammenfassung:
-        - Miez befragt Pfeffer, stellt Unschuld fest
-        - Löffel und Feder führen zu Karl und Henry
-  -   Entiwcklung der Pinnwand:
-        - Neuer Hinweis: Marmeladenlöffel
-        - Neuer Hinweis: Kleine Feder
-        - Neuer Hinweis: Karl Nikel
-        - Neuer Hinweis: Henry Habicht
-  - Ziel für nächsten Hinweis: Verbinde Pfeffer Pig mit Henry Habicht oder Karl Nikel.
+        - Miau: [panisch] Miez! Ich brauche dringend deine Hilfe! Meine Marmelade wurde heute Nacht gestohlen!
+        - Miez: Uiuiui, schrei doch nicht so! 😵‍💫 Atme erstmal durch und erzähl mir in Ruhe, was passiert ist.
+        - Miau: Also gut... Du weißt doch vom Marmeladenwettbewerb heute?
+        - Miez: Äh... welchem Wettbewerb?
+        - Miau: Na, dem Pfötchenhausener Marmeladenwettbewerb! Das wichtigste Ereignis des Jahres! Wie kannst du das
+          nicht wissen?!
+        - Miez: Ach der! Ja, stimmt – da hing doch ein Plakat in der Bäckerei.
+        - Miau: Genau der! Jedenfalls war heute Morgen meine Hintertür der Küche offen – und überall klebten
+          Marmeladenflecken! Meine Marmelade ist weg!
+        - Miez: Sicher, dass du sie nicht einfach verräumt hast?
+        - Miau: Auf keinen Fall! Ich bin die langjährige Marmeladenkönigin von Pfötchenhausen! Mein geheimes
+          Erdbeermarmeladenrezept ist legendär. Und dieses Jahr muss ich wieder gewinnen! Ich wette, Pfeffer Pig steckt
+          dahinter – meine ewige Rivalin! Sie wird immer nur Zweite...
+        - Miez: Hm... klingt verdächtig. Ich rede mit ihr und finde raus, was passiert ist.
+        - Miau: Oh danke, Miez! Du bist meine letzte Hoffnung...
+    - Zusammenfassung:
+        - Tatort: Küche, es sind Marmeladenflecken verteilt und die Hintertür ist geöffnet.
+        - Diebesgut: Marmelade
+        - Hintergrund: Marmelade wird für die Teilnahme am Wettbewerb benötigt
+        - Anschuldigung: Rivalin Pfeffer Pig, die sonst immer nur den 2. Platz macht
+    - Entwicklung der Pinnwand:
+        - Neuer Hinweis: Miss Miau
+        - Neuer Hinweis: Pfeffer Pig
+    - Ziel für nächsten Hinweis: Miau mit Pfeffer verbinden
+3. Pfeffer Pig - Die Rivalin
+    - Dialog
+        - Pfeffer: [empört] Ich hörte, du suchst den Marmeladendieb, und Miss Miau glaubt, ICH WÄRS GEWESEN?! Nur weil
+          ich jedes Jahr verliere, heißt das nicht, dass ich klauen muss! Dabei hab ich gestern spät noch im Garten
+          gearbeitet, ich wollte frische Erdbeeren für meine neue Marmelade pflücken!
+        - Miez: Aha, spätabends also. Hast du sonst noch jemanden gesehen?
+        - Pfeffer: Jetzt, wo du’s sagst... ja! Ich sah Karl Nikel vorbeihüpfen. Der hatte’s ganz schön eilig. Ich
+          dachte, er wär auf dem Weg zur Bäckerei – aber wer weiß. Schau doch in Miaus garten, da hoppelte er durch.
+          Zwischen den Erdbeeren... da glänzt irgendwas.
+        - Miez: [geht hin, inspiziert den Boden, findet Löffel und Feder.] Hm... ein Löffel. Mit Marmeladenreste dran.
+          Und eine Feder?!
+        - Pfeffer Pig: Siehst du? Ich sag ja. Ich hab nix damit zu tun! Vielleicht war’s ja jemand Geflügeltes?
+        - Miez: Hm. Eine Feder also... sehr verdächtig. Wir werden sehen, Pfeffer. Wenn der Löffel reden könnte, hätte
+          er bestimmt was auf dem Löffel.
+
+- Zusammenfassung:
+  - Miez befragt Pfeffer, stellt Unschuld fest
+  - Löffel und Feder führen zu Karl und Henry
+- Entiwcklung der Pinnwand:
+    - Neuer Hinweis: Marmeladenlöffel
+    - Neuer Hinweis: Kleine Feder
+    - Neuer Hinweis: Karl Nikel
+    - Neuer Hinweis: Henry Habicht
+- Ziel für nächsten Hinweis: Verbinde Pfeffer Pig mit Henry Habicht oder Karl Nikel.
+
 4. Karl Nikkel - Der sprunghafte Zeuge (Vorgarten von Miss Miau)
     - Dialog:
         - Miez: Karl Nikel? Bleib mal kurz stehen!
@@ -111,15 +123,15 @@ Plan
     - Ziel für nächsten Hinweis: Verbinung zu Karl Kroko herstellen
 5. Kurt Kroko - Der Jogger mit Durchblick (Ermittlungen am Flussufer)
     - Dialog:
-      - Mietz: Kurt Kroko? Was machst du da – und ist das ein Vogel auf deinem Kopf?
-      - Kurt: Joggen mit Peter Piep. Wir sahen nachts Licht in Miss Miaus Küche.
-      - Peter Piep: Und was Glitzerndes durchs Fenster!
-      - Mietz: Marmelade?
-      - Peter Piep: [piepst] Genau! Und die Feder da – die ist nicht meine!
+        - Mietz: Kurt Kroko? Was machst du da – und ist das ein Vogel auf deinem Kopf?
+        - Kurt: Joggen mit Peter Piep. Wir sahen nachts Licht in Miss Miaus Küche.
+        - Peter Piep: Und was Glitzerndes durchs Fenster!
+        - Mietz: Marmelade?
+        - Peter Piep: [piepst] Genau! Und die Feder da – die ist nicht meine!
     - Entwicklung der Pinnwand:
-      - Neuer Hinweis: Feder gehört nicht zu Peter Piep
-      - Neuer Hinweis: Jemand war nachts in der Küche
-      - Neuer Hinweis: Verdacht auf Henry Habicht wird stärker
+        - Neuer Hinweis: Feder gehört nicht zu Peter Piep
+        - Neuer Hinweis: Jemand war nachts in der Küche
+        - Neuer Hinweis: Verdacht auf Henry Habicht wird stärker
     - Ziel: Henry Habicht befragen.
 6. Henry Habicht – Der Gourmet-Juror (Interview im Marmeladenjury-Zelt)
 
