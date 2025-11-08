@@ -1,8 +1,10 @@
 
+using System.Collections;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using System.Collections.Generic;
 using System.Linq;
+using UnityEngine.UI;
 
 namespace PIN
 {
@@ -10,7 +12,10 @@ namespace PIN
     {
         [SerializeField]
         private Hint _hint;
-
+        
+        [SerializeField]
+        private Sprite _alternativeSprite;
+        
         public Hint Hint => _hint;
 
         private RectTransform _rectTransform;
@@ -21,11 +26,33 @@ namespace PIN
         private Vector2 _pressScreenPos;
         private bool _isDragging;
         private int _pixelDragThreshold = -1; // lazily init
-
+        
         private void Start()
         {
             _rectTransform = GetComponent<RectTransform>();
             _hintManager = GetComponentInParent<HintManager>();
+            
+            if(_hintManager.HasUncompletedHintSteps(_hint))
+            {
+                StartCoroutine(Animate());
+            }
+        }
+
+        private IEnumerator Animate()
+        {
+            var image = gameObject.GetComponent<Image>();
+            var originalSprite = image.sprite;
+            
+            while (_hintManager.HasUncompletedHintSteps(_hint))
+            {
+                // Wechsel zu alternativer Sprite
+                image.sprite = _alternativeSprite;
+                yield return new WaitForSeconds(0.5f);
+
+                // Zurück zur Original-Sprite
+                image.sprite = originalSprite;
+                yield return new WaitForSeconds(0.5f);
+            }
         }
 
         // Merken, wo der Pointer gedrückt wurde

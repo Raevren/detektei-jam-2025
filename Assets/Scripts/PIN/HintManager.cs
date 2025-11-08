@@ -104,6 +104,15 @@ public class HintManager : MonoBehaviour
         }
     }
 
+    public bool HasUncompletedHintSteps(Hint hint)
+    {
+        var key = "hints_" + hint.name;
+        var currentHintStepIndex = PlayerPrefs.GetInt(key, 0);
+        var currentHintStep = hint.hints[currentHintStepIndex];
+        
+        return !IsHintStepCompleted(hint, currentHintStep);
+    }
+    
     public bool IsHintStepCompleted(Hint hint, HintStep step)
     {
         var failed = step.NeededConnectedHints.Select(stepNeededConnectedHint => BuildHintKey(hint, stepNeededConnectedHint)).Any(key => !_hintConnectionsKeys.Contains(key));
