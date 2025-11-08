@@ -130,10 +130,10 @@ Plan
         - Miez: Verkosten oder stehlen?
         - Henry: Nur ein ganz kleines Bisschen probiert, ich schwöre!
         - Miez: Hm. Und sonst irgendwas Verdächtiges gehört?
-        - Henry: Nun ja… Zoe Ziege hat sich neulich ziemlich laut über Miss Miau beschwert. Sehr laut.
-  - Entwicklung der Pinnwand:
-        - Neuer Hinweis: Henrys Erdbeerduft
-        - Zoe Ziege (neuer Verdacht)
+        - Henry: Nun ja… Zoe Ziege hat sich neulich ziemlich laut über Miss Miau beschwert. Sehr laut.  
+  - Entwicklung der Pinnwand:  
+        - Neuer Hinweis: Henrys Erdbeerduft  
+        - Zoe Ziege (neuer Verdacht)  
   - Ziel für den nächsten Hinweis: Zoe befragen
 
 
