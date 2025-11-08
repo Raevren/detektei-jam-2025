@@ -82,7 +82,7 @@ public class HintManager : MonoBehaviour
         if (hint.hints == null || hint.hints.Length == 0)
         {
             Debug.LogWarning($"[HintManager] ShowHint: hint '{hint.name}' has no hint steps.");
-            if (_title != null) _title.text = hint.hintTitle + " (0/0)";
+            if (_title != null) _title.text = hint.GetTitle + " (0/0)";
             if (_description != null) _description.text = "";
             return;
         }
@@ -94,16 +94,16 @@ public class HintManager : MonoBehaviour
         }
 
         if (_title != null)
-            _title.text = hint.hintTitle + "(" + currentHintStep + "/" + hint.hints.Length + ")";
+            _title.text = hint.GetTitle + "(" + currentHintStep + "/" + hint.hints.Length + ")";
         else
             Debug.LogWarning("[HintManager] ShowHint: _title TMP_Text is not assigned");
 
         if (_description != null)
-            _description.text = hint.hints[currentHintStep].description ?? string.Empty;
+            _description.text = hint.hints[currentHintStep].GetDescription ?? string.Empty;
         else
             Debug.LogWarning("[HintManager] ShowHint: _description TMP_Text is not assigned");
 
-        Debug.Log($"[HintManager] ShowHint: Showing hint '{hint.name}' step {currentHintStep}/{hint.hints.Length}. Title='{hint.hintTitle}'");
+        Debug.Log($"[HintManager] ShowHint: Showing hint '{hint.name}' step {currentHintStep}/{hint.hints.Length}. Title='{hint.GetTitle}'");
     }
 
     public bool AddHintConnection(Hint hintOne, Hint hintTwo)

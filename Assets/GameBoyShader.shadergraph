@@ -78,7 +78,7 @@
                 "m_Node": {
                     "m_Id": "fa49b30a57414f099641ca1a45a68379"
                 },
-                "m_SlotId": 0
+                "m_SlotId": 1
             }
         },
         {
@@ -190,7 +190,7 @@
                 "m_Node": {
                     "m_Id": "fa49b30a57414f099641ca1a45a68379"
                 },
-                "m_SlotId": 1
+                "m_SlotId": 0
             }
         },
         {
@@ -656,7 +656,7 @@
     "m_ShaderOutputName": "Edge",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 0.75,
+        "x": 0.5,
         "y": 1.0,
         "z": 1.0,
         "w": 1.0
@@ -1161,7 +1161,7 @@
     "m_ShaderOutputName": "Edge",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 0.5,
+        "x": 0.3499999940395355,
         "y": 1.0,
         "z": 1.0,
         "w": 1.0
@@ -1185,7 +1185,7 @@
     "m_ShaderOutputName": "Edge",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 0.25,
+        "x": 0.30000001192092898,
         "y": 1.0,
         "z": 1.0,
         "w": 1.0
