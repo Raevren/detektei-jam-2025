@@ -74,6 +74,14 @@ public class HintManager : MonoBehaviour
         Init();
     }
 
+    public bool IsHintStepCompleted(Hint hint, HintStep step)
+    {
+        var failed = step.NeededConnectedHints.Select(stepNeededConnectedHint => BuildHintKey(hint, stepNeededConnectedHint)).Any(key => !_hintConnectionsKeys.Contains(key));
+        if (!failed) return true;
+        failed = step.AlternativeConnectedHints.Select(stepNeededConnectedHint => BuildHintKey(hint, stepNeededConnectedHint)).Any(key => !_hintConnectionsKeys.Contains(key));
+        return !failed;
+    }
+    
     public void ShowHint(Hint hint)
     {
         var key = "hints_" + hint.name;
@@ -108,12 +116,7 @@ public class HintManager : MonoBehaviour
 
     public bool AddHintConnection(Hint hintOne, Hint hintTwo)
     {
-        // Build a sorted pair key from the two hint names
-        var hintNames = new[] { hintOne.name, hintTwo.name };
-        Array.Sort(hintNames, StringComparer.Ordinal);
-        var key = string.Join("_", hintNames);
-
-        Debug.Log($"[HintManager] AddHintConnection: Attempting to add connection between '{hintNames[0]}' and '{hintNames[1]}', key='{key}'");
+        var key = BuildHintKey(hintOne, hintTwo);
 
         // Already exists?
         if (_hintConnectionsKeys.Any(existing => existing == key))
@@ -156,6 +159,14 @@ public class HintManager : MonoBehaviour
 
         Debug.Log($"[HintManager] AddHintConnection: connection '{key}' added and saved. Total connections: {_hintConnectionsKeys.Count}");
         return true;
+    }
+
+    private string BuildHintKey(Hint hint1, Hint hint2)
+    {
+        var hintNames = new[] { hint1.name, hint2.name };
+        Array.Sort(hintNames, StringComparer.Ordinal);
+        var key = string.Join("_", hintNames);
+        return key;
     }
 
     private Vector2 ToUISpace(RectTransform sourceRect)

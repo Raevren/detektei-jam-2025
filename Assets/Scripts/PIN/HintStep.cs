@@ -6,6 +6,9 @@ public class HintStep : ScriptableObject
 {
     [SerializeField] private string key;
     
+    [field: SerializeField] public Hint[] NeededConnectedHints { get; private set; }
+    [field: SerializeField] public Hint[] AlternativeConnectedHints { get; private set; }
+    
     /// <summary>
     /// Load description from loca
     /// </summary>
