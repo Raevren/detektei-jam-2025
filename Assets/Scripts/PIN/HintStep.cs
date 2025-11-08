@@ -7,6 +7,7 @@ public class HintStep : ScriptableObject
     [SerializeField] private string key;
 
     [field: SerializeField] public DialogSequence CompletedDialog { get; private set; }
+    [field: SerializeField] public Hint[] HintsToUnlock { get; private set; }
     
     [field: SerializeField] public Hint[] NeededConnectedHints { get; private set; }
     [field: SerializeField] public Hint[] AlternativeConnectedHints { get; private set; }

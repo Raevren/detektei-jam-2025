@@ -51,6 +51,74 @@ MonoBehaviour:
     m_Localized: "Viel Spa\xDF noch, Henry."
     m_Metadata:
       m_Items: []
+  - m_Id: 320424620548096
+    m_Localized: "Huh, geht nicht ans Handy... \nOder hat die Person etwas zu verbergen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323128294072320
+    m_Localized: Miez! Ich brauche dringend deine Hilfe! Meine Marmelade wurde heute
+      Nacht gestohlen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323577218818048
+    m_Localized: "Uiuiui, schrei doch nicht so! Atme erstmal durch und erz\xE4hl
+      mir in Ruhe, was passiert ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 324059911905280
+    m_Localized: "Also gut... Du wei\xDFt doch vom Marmeladenwettbewerb heute?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 324092702973952
+    m_Localized: "\xC4h... welchem Wettbewerb?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 324343576879104
+    m_Localized: "Na, dem Pf\xF6tchenhausener Marmeladenwettbewerb! Das wichtigste
+      Ereignis des Jahres! Wie kannst du das nicht wissen?!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 324445708181504
+    m_Localized: "Ach der! Ja, stimmt, da hing doch ein Plakat in der B\xE4ckerei."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 325234119892992
+    m_Localized: "Genau der! Jedenfalls war heute Morgen meine Hintert\xFCr der K\xFCche
+      offen und \xFCberall klebten Marmeladenflecken! Meine Marmelade ist weg!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 325327443156992
+    m_Localized: "Sicher, dass du sie nicht einfach verr\xE4umt hast?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 325843455795200
+    m_Localized: "Auf keinen Fall! Ich bin die langj\xE4hrige Marmeladenk\xF6nigin
+      von Pf\xF6tchenhausen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 325865677217792
+    m_Localized: "Mein geheimes Erdbeermarmeladenrezept ist legend\xE4r. Und dieses
+      Jahr muss ich wieder gewinnen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 325931011891200
+    m_Localized: Ich wette, Pfeffer Pig steckt dahinter, meine ewige Rivalin! Sie
+      wird immer nur Zweite...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 326040038629376
+    m_Localized: "Hm... klingt verd\xE4chtig. Ich rede mit ihr und finde raus, was
+      passiert ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 326167025377280
+    m_Localized: Oh danke, Miez! Du bist meine letzte Hoffnung...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341197817110528
+    m_Localized: Riiiiiiiing, Riiiiiiiing, Riiiiiiiing, ...
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

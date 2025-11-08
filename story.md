@@ -75,8 +75,67 @@ Plan
        - Neuer Hinweis: Miss Miau
        - Neuer Hinweis: Pfeffer Pig
    - Ziel für nächsten Hinweis: Miau mit Pfeffer verbinden
-
-
+  3. Pfeffer Pig - Die Rivalin
+     - Dialog
+       - Pfeffer: [empört] Ich hörte, du suchst den Marmeladendieb – und Miss Miau glaubt, ich wär’s?! Nur weil ich jedes Jahr verliere, heißt das nicht, dass ich klauen muss! Dabei hab ich gestern spät noch im Garten gearbeitet – ich wollte frische Erdbeeren für meine neue Marmelade pflücken!
+       - Miez: Aha, spätabends also. Hast du sonst noch jemanden gesehen?
+       - Pfeffer: Jetzt, wo du’s sagst... ja! Ich sah Karl Nikel vorbeihüpfen. Der hatte’s ganz schön eilig. Ich dachte, er wär auf dem Weg zur Bäckerei – aber wer weiß. Schau doch, zwischen den Erdbeeren... da liegt irgendwas.
+       - Miez: [geht hin, inspiziert den Boden, findet Löffel und Feder.] Hm... ein Löffel. Mit Marmeladenreste dran. Und eine Feder?!
+       - Pfeffer Pig: Siehst du? Ich sag ja – ich hab nix damit zu tun! Vielleicht war’s ja jemand Geflügeltes?
+       - Miez: Hm. Eine Feder also... sehr verdächtig. Wir werden sehen, Pfeffer. Wenn der Löffel reden könnte, hätte er bestimmt was auf dem Löffel.
+  - Zusammenfassung:
+        - Miez befragt Pfeffer, stellt Unschuld fest
+        - Löffel und Feder führen zu Karl und Henry
+  -   Entiwcklung der Pinnwand:
+        - Neuer Hinweis: Marmeladenlöffel
+        - Neuer Hinweis: Kleine Feder
+        - Neuer Hinweis: Karl Nikel
+        - Neuer Hinweis: Henry Habicht
+  - Ziel für nächsten Hinweis: Verbinde Pfeffer Pig mit Henry Habicht oder Karl Nikel.
+4. Karl Nikkel - Der sprunghafte Zeuge (Vorgarten von Miss Miau)
+    - Dialog:
+        - Miez: Karl Nikel? Bleib mal kurz stehen!
+        - Karl: Oh! Äh—Mietz! Ich... ich schwöre, ich war’s nicht! Ich hab nur meinen Schuh gesucht!
+        - Miez: Im Matsch? Mitten in der Nacht?
+        - Karl: Äh... ja! Und da sah ich Kurt Kroko joggen. Direkt vor Miss Miaus Haus!
+        - Miez: Kurt Kroko also... interessant.
+        - Karl: Und es roch so stark nach Erdbeeren... ich bekam richtig Hunger!
+        - Miez: Diese Fußspuren hier stammen wohl von dir?
+        - Karl: U-uh... ja. Aber ehrlich – ich bin unschuldig!
+    - Zusammenfassung:
+        - Miez befragt Karl
+        - Kurt verdächtig
+    - Entwicklung der Pinnwand:
+        - Neuer Hinweis: Schlammige Fußspuren
+        - Neuer Hinweis: Kurt Kroko
+    - Ziel für nächsten Hinweis: Verbinung zu Karl Kroko herstellen
+5. Kurt Kroko - Der Jogger mit Durchblick (Ermittlungen am Flussufer)
+    - Dialog:
+      - Mietz: Kurt Kroko? Was machst du da – und ist das ein Vogel auf deinem Kopf?
+      - Kurt: Joggen mit Peter Piep. Wir sahen nachts Licht in Miss Miaus Küche.
+      - Peter Piep: Und was Glitzerndes durchs Fenster!
+      - Mietz: Marmelade?
+      - Peter Piep: [piepst] Genau! Und die Feder da – die ist nicht meine!
+    - Entwicklung der Pinnwand:
+      - Neuer Hinweis: Feder gehört nicht zu Peter Piep
+      - Neuer Hinweis: Jemand war nachts in der Küche
+      - Neuer Hinweis: Verdacht auf Henry Habicht wird stärker
+    - Ziel: Henry Habicht befragen.
+6. Henry Habicht – Der Gourmet-Juror (Interview im Marmeladenjury-Zelt)
+  - Dialog:  
+      - Miez: Henry Habicht, Jury-Mitglied, richtig?
+      - Henry: [räuspert sich] Äh… ja. Warum fragen Sie, Detective?
+      - Miez: Weil Sie verdächtig nach Erdbeeren duften.
+      - Henry: Oh, das… äh… ich war gestern kurz bei Miss Miau. Rein beruflich! Ich wollte nur… verkosten.
+      - Miez: Verkosten oder stehlen?
+      - Henry: Nur ein ganz kleines Bisschen probiert, ich schwöre!
+      - Miez: Hm. Und sonst irgendwas Verdächtiges gehört?
+      - Henry: Nun ja… Zoe Ziege hat sich neulich ziemlich laut über Miss Miau beschwert. Sehr laut.  
+  - Entwicklung der Pinnwand:  
+        - Neuer Hinweis: Henrys Erdbeerduft  
+        - Zoe Ziege (neuer Verdacht)  
+  - Ziel für den nächsten Hinweis: Zoe befragen
+7. Zoe Ziege - Die Meckernde Rivalin (Ermittlungen auf dem Hof)
 
 
 

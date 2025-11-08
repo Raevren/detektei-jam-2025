@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -126,7 +126,7 @@ TextureImporter:
       name: HenryHabicht
       rect:
         serializedVersion: 2
-        x: 257
+        x: 255
         y: 255
         width: 220
         height: 220
@@ -140,6 +140,72 @@ TextureImporter:
       bones: []
       spriteID: b2c21aef2e351a64f9d777909486e0de
       internalID: -1232896457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: henryHabicht_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 256
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236cf7055cb9af848bc7675415cb8b98
+      internalID: 2125747502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: henryHabicht_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 22
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5501a97813edfce429acbac57914d2be
+      internalID: 1160948957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: henryHabicht_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 22
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39cb204b8049dd47a3deb8c1198cbba
+      internalID: 463603677
       vertices: []
       indices: 
       edges: []
@@ -159,6 +225,9 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       HenryHabicht: -1232896457
+      henryHabicht_0: 2125747502
+      henryHabicht_1: 1160948957
+      henryHabicht_2: 463603677
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Localization.Settings;
 using UnityEngine.U2D;
@@ -43,13 +44,17 @@ public class DialogCanvas : MonoBehaviour
         canvas.Setup(sequence, onEnd);
     }
 
+    private void Update()
+    {
+        if (!Input.GetKeyDown(KeyCode.P)) return;
+        _instance?.End(true);
+    }
+
     private void Setup(DialogSequence sequence, Action onEnd)
     {
-        if (_instance != null)
-        {
-            _instance.End(true);
-        }
+        _instance?.End(true);
         _instance = this;
+        _onEnd = onEnd;
         _anim = GetComponent<Animator>();
         GetComponent<Canvas>().worldCamera = Camera.main;
         _sequence = sequence;
@@ -169,7 +174,7 @@ public class DialogCanvas : MonoBehaviour
         
         // Load the actor image
         string spriteName = _currentDialog.Lines[_boxOfCurrentDialog].ActorSpriteSuffix.Trim();
-        actorImage.sprite = portraitAtlas.GetSprite(_currentDialog.Actor + (string.IsNullOrEmpty(spriteName) ? "" : "_" + spriteName));
+        actorImage.sprite = portraitAtlas.GetSprite(_currentDialog.Actor + (string.IsNullOrEmpty(spriteName) ? "_0" : "_" + spriteName));
     }
     
     // Called by animator when every dialog is over

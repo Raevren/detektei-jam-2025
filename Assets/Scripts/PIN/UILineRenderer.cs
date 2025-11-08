@@ -7,18 +7,10 @@ public class UILineRenderer : Graphic
 {
     private List<Vector2[]> _points = new();
     
-    [SerializeField] private float thickness = 5f;
+    [SerializeField] private float thickness = 25f;
 
     // Expose thickness so external code can adjust visibility
-    public float Thickness
-    {
-        get => thickness;
-        set
-        {
-            thickness = value;
-            SetVerticesDirty();
-        }
-    }
+    public float Thickness => thickness;
 
     public void SetPoints(List<Vector2[]> newPoints)
     {

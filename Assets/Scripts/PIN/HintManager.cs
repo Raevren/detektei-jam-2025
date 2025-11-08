@@ -22,9 +22,13 @@ public class HintManager : MonoBehaviour
     
     [SerializeField]
     private UIDragConnector[] _connectors;
+
+    [SerializeField] private DialogSequence startDialog;
+    [SerializeField] private Hint[] startHints;
     
     private RectTransform _rectTransform;
-    
+ 
+    private List<string> _unlockedHints = new();
     private List<string> _hintConnectionsKeys = new();
     
     public Hint CurrentHint { get; private set; }
@@ -32,6 +36,14 @@ public class HintManager : MonoBehaviour
 
     private void Init()
     {
+        _unlockedHints = new List<string>(PlayerPrefs.GetString("hint_unlocked", "").Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries));
+        
+        foreach (var uiDragConnector in _connectors)
+        {
+            var isActive = _unlockedHints.Contains(uiDragConnector.Hint.name);
+            uiDragConnector.gameObject.SetActive(isActive);
+        }
+        
         _rectTransform = _lineRenderer.gameObject.GetComponent<RectTransform>();
        
         var raw = PlayerPrefs.GetString("hint_connections", "");
@@ -79,6 +91,17 @@ public class HintManager : MonoBehaviour
     private void Start()
     {
         Init();
+
+        if (_unlockedHints.Count == 0)
+        {
+            DialogCanvas.Spawn(startDialog, () =>
+            {
+                foreach (var startHint in startHints)
+                {
+                    UnlockHint(startHint);
+                }
+            });
+        }
     }
 
     public bool IsHintStepCompleted(Hint hint, HintStep step)
@@ -87,6 +110,19 @@ public class HintManager : MonoBehaviour
         if (!failed) return true;
         failed = step.AlternativeConnectedHints.Select(stepNeededConnectedHint => BuildHintKey(hint, stepNeededConnectedHint)).Any(key => !_hintConnectionsKeys.Contains(key));
         return !failed;
+    }
+
+    public void UnlockHint(Hint hint)
+    {
+        if (_unlockedHints.Contains(hint.name))
+        {
+            return;
+        }
+        _unlockedHints.Add(hint.name);
+        var connection = FindConnectorByHintName(hint.name);
+        connection.gameObject.SetActive(true);
+        PlayerPrefs.SetString("hint_unlocked", string.Join(",", _unlockedHints));
+        PlayerPrefs.Save();
     }
     
     public void ShowHint(Hint hint)
