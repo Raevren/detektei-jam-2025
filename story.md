@@ -71,10 +71,10 @@ Plan
         - Miez: Hm... klingt verdächtig. Ich rede mit ihr und finde raus, was passiert ist.
         - Miau: Oh danke, Miez! Du bist meine letzte Hoffnung...
     - Zusammenfassung:
-        - Tatort: Küche, es sind Marmeladenflecken verteilt und die Hintertür ist geöffnet.
+        - Tatort: Küche, Marmeladenflecken, geöffnete Hintertür
         - Diebesgut: Marmelade
-        - Hintergrund: Marmelade wird für die Teilnahme am Wettbewerb benötigt
-        - Anschuldigung: Rivalin Pfeffer Pig, die sonst immer nur den 2. Platz macht
+        - Info: Marmelade wird für die Teilnahme am Marmeladenwettbewerb benötigt
+        - Anschuldigung: Rivalin Pfeffer Pig, die sonst immer nur den 2. Platz macht!
     - Entwicklung der Pinnwand:
         - Neuer Hinweis: Miss Miau
         - Neuer Hinweis: Pfeffer Pig
@@ -124,10 +124,17 @@ Plan
 5. Kurt Kroko - Der Jogger mit Durchblick (Ermittlungen am Flussufer)
     - Dialog:
         - Mietz: Kurt Kroko? Was machst du da – und ist das ein Vogel auf deinem Kopf?
-        - Kurt: Joggen mit Peter Piep. Wir sahen nachts Licht in Miss Miaus Küche.
+        - Kurt: Joggen mit Peter Piep. Warum fragst du? 
+        - Mietz: Wart ihr auch gestern nachts joggen?
+        - Kurt: Ach... ja. Woher weißt du das?
+        - Miez: Das ist unwichtig, was habt ihr da getrieben? Seid ihr etwa eingebrochen?
+        - Kurt: Was??? Nein auf keinen Fall! Wir waren nur ganz normal joggen. Also fast... Ehrlich gesagt habe ich in die Küche geluckt...
+        - Miez: Warum das, wie kam es dazu? 
+        - Kurt: Wir sahen nachts Licht in Miss Miaus Küche.
         - Peter Piep: Und was Glitzerndes durchs Fenster!
         - Mietz: Marmelade?
-        - Peter Piep: [piepst] Genau! Und die Feder da – die ist nicht meine!
+        - Peter Piep: [piepst] Genau! [schüttelt sich und verliert einige Federn]
+        - Miez: Hmmm... diese Federn passen nicht zu der von mir gefundenen... Nun gut, danke für eure Kooperation.
     - Entwicklung der Pinnwand:
         - Neuer Hinweis: Feder gehört nicht zu Peter Piep
         - Neuer Hinweis: Jemand war nachts in der Küche

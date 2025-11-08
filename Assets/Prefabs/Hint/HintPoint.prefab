@@ -89,3 +89,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _hint: {fileID: 11400000, guid: 364f1c877bab9449aa145676a0bc08cb, type: 2}
+  _alternativeSprite: {fileID: 21300000, guid: 96ae213611e1a6a4f924e87611f533cb, type: 3}
+  _alternativeSpriteTwo: {fileID: 21300000, guid: 419cd726ce4ab5d4db6406037274d1a9, type: 3}

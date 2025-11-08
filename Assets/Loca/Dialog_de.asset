@@ -167,7 +167,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 349863156867072
-    m_Localized: "... ein L\xF6ffel.\nMit Marmeladenresten dran."
+    m_Localized: "... ein L\xF6ffel.\nMit Marmeladenresten dran.\nSchlammige gro\xDFe
+      Fu\xDFabdr\xFCcke..."
     m_Metadata:
       m_Items: []
   - m_Id: 349968270319616
@@ -191,7 +192,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 352024905342976
-    m_Localized: "Wenn der L\xF6ffel doch nur redne k\xF6nnte ..."
+    m_Localized: "Wenn der L\xF6ffel doch nur reden k\xF6nnte ..."
     m_Metadata:
       m_Items: []
   - m_Id: 366874511499264
@@ -236,7 +237,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 369971703013376
-    m_Localized: "U-uh... ja. \nAber ehrlich, ich bin unschuldig!"
+    m_Localized: "U-uh... ja. \nAber ehrlich, ich bin unschuldig!\nGeh doch Kurt
+      fragen, ob er was sah."
     m_Metadata:
       m_Items: []
   references:
