@@ -422,7 +422,7 @@ PrefabInstance:
     - target: {fileID: 7241557539185141944, guid: fb0abb921159840da8f9a56578c5f48c, type: 3}
       propertyPath: _hint
       value: 
-      objectReference: {fileID: 11400000, guid: 364f1c877bab9449aa145676a0bc08cb, type: 2}
+      objectReference: {fileID: 11400000, guid: e75c8e64e8744c24cb51cf3d109cdfd5, type: 2}
     - target: {fileID: 7420974053887580774, guid: fb0abb921159840da8f9a56578c5f48c, type: 3}
       propertyPath: m_Name
       value: HintPoint
@@ -581,8 +581,8 @@ MonoBehaviour:
   - {fileID: 619785642}
   startDialog: {fileID: 11400000, guid: 3bc3eeb8050f0f8479700454061917c2, type: 2}
   startHints:
-  - {fileID: 11400000, guid: 364f1c877bab9449aa145676a0bc08cb, type: 2}
-  - {fileID: 11400000, guid: 75585ade1132b428982a06a661459f47, type: 2}
+  - {fileID: 11400000, guid: e75c8e64e8744c24cb51cf3d109cdfd5, type: 2}
+  - {fileID: 11400000, guid: 39e212c13314ec147b0fd9bd505311ed, type: 2}
 --- !u!114 &674351142
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1314,7 +1314,7 @@ PrefabInstance:
     - target: {fileID: 7241557539185141944, guid: fb0abb921159840da8f9a56578c5f48c, type: 3}
       propertyPath: _hint
       value: 
-      objectReference: {fileID: 11400000, guid: 75585ade1132b428982a06a661459f47, type: 2}
+      objectReference: {fileID: 11400000, guid: 39e212c13314ec147b0fd9bd505311ed, type: 2}
     - target: {fileID: 7420974053887580774, guid: fb0abb921159840da8f9a56578c5f48c, type: 3}
       propertyPath: m_Name
       value: HintPoint (1)

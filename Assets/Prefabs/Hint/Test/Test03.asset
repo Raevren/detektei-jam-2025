@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e8e3b8bf17dd4f2b8c5758b681c2247, type: 3}
   m_Name: Test03
   m_EditorClassIdentifier: 
-  titleKey: 
-  hints: []
+  hints:
+  - {fileID: 11400000, guid: c1f54709dddb840fab6ae771442d99fb, type: 2}
   fallbackDialogs: []
