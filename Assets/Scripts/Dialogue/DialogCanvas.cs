@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using TMPro;
 using UnityEngine;
@@ -29,18 +30,20 @@ public class DialogCanvas : MonoBehaviour
     /// </summary>
     private int _sequenceProgress = 0;
     
+    private Action _onEnd;
+    
     /// <summary>
     /// Use this to spawn a new dialog on screen.
     /// Any existing dialog will end.
     /// </summary>
-    public static void Spawn(DialogSequence sequence)
+    public static void Spawn(DialogSequence sequence, Action onEnd = null)
     {
         DialogCanvas prefab = Resources.Load<DialogCanvas>("DialogCanvas");
         DialogCanvas canvas = Instantiate(prefab);
-        canvas.Setup(sequence);
+        canvas.Setup(sequence, onEnd);
     }
 
-    private void Setup(DialogSequence sequence)
+    private void Setup(DialogSequence sequence, Action onEnd)
     {
         if (_instance != null)
         {
@@ -48,6 +51,7 @@ public class DialogCanvas : MonoBehaviour
         }
         _instance = this;
         _anim = GetComponent<Animator>();
+        GetComponent<Canvas>().worldCamera = Camera.main;
         _sequence = sequence;
         _currentDialog = sequence.Dialogs[0];
         dialogText.text = "";
@@ -169,6 +173,7 @@ public class DialogCanvas : MonoBehaviour
     // Called by animator when every dialog is over
     private void Anim_Destroy()
     {
+        _onEnd?.Invoke();
         Destroy(gameObject);
     }
     
