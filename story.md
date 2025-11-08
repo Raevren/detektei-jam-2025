@@ -134,6 +134,20 @@ Plan
         - Neuer Hinweis: Verdacht auf Henry Habicht wird stärker
     - Ziel: Henry Habicht befragen.
 6. Henry Habicht – Der Gourmet-Juror (Interview im Marmeladenjury-Zelt)
+  - Dialog:  
+      - Miez: Henry Habicht, Jury-Mitglied, richtig?
+      - Henry: [räuspert sich] Äh… ja. Warum fragen Sie, Detective?
+      - Miez: Weil Sie verdächtig nach Erdbeeren duften.
+      - Henry: Oh, das… äh… ich war gestern kurz bei Miss Miau. Rein beruflich! Ich wollte nur… verkosten.
+      - Miez: Verkosten oder stehlen?
+      - Henry: Nur ein ganz kleines Bisschen probiert, ich schwöre!
+      - Miez: Hm. Und sonst irgendwas Verdächtiges gehört?
+      - Henry: Nun ja… Zoe Ziege hat sich neulich ziemlich laut über Miss Miau beschwert. Sehr laut.  
+  - Entwicklung der Pinnwand:  
+        - Neuer Hinweis: Henrys Erdbeerduft  
+        - Zoe Ziege (neuer Verdacht)  
+  - Ziel für den nächsten Hinweis: Zoe befragen
+7. Zoe Ziege - Die Meckernde Rivalin (Ermittlungen auf dem Hof)
 
 
 

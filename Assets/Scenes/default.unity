@@ -380,6 +380,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   testDialog: {fileID: 11400000, guid: 3bc3eeb8050f0f8479700454061917c2, type: 2}
+  testMusic: {fileID: 11400000, guid: ac2aa1a7385e0e94a9e78cd3516da4b8, type: 2}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

@@ -7,6 +7,7 @@ namespace Menu
     {
         public void StartGameScene()
         {
+            SoundSystem.Instance.PlayGenericSfx(CommonSfx.Submit);
             SceneManager.LoadScene("Scenes/PIN_SCENE");
         }
     }

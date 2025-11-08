@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Localization.Settings;
 using UnityEngine.U2D;
@@ -43,12 +44,15 @@ public class DialogCanvas : MonoBehaviour
         canvas.Setup(sequence, onEnd);
     }
 
+    private void Update()
+    {
+        if (!Input.GetKeyDown(KeyCode.P)) return;
+        _instance?.End(true);
+    }
+
     private void Setup(DialogSequence sequence, Action onEnd)
     {
-        if (_instance != null)
-        {
-            _instance.End(true);
-        }
+        _instance?.End(true);
         _instance = this;
         _onEnd = onEnd;
         _anim = GetComponent<Animator>();
@@ -69,6 +73,7 @@ public class DialogCanvas : MonoBehaviour
         _isTalking = true;
         while (dialogText.maxVisibleCharacters < dialogText.text.Length)
         {
+            SoundSystem.Instance.PlayGenericSfx(CommonSfx.TextM);
             dialogText.maxVisibleCharacters += 3;
             yield return new WaitForSeconds(0.05f);
         }
@@ -90,6 +95,7 @@ public class DialogCanvas : MonoBehaviour
     /// </summary>
     private void OnClickAdvance()
     {
+        SoundSystem.Instance.PlayGenericSfx(CommonSfx.Submit);
         if(_isTalking)
             SkipText();
         else
