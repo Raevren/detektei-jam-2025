@@ -32,4 +32,5 @@ public enum DialogActor
     professorBello,
     zoeZiege,
     telephone,
+    peterPiep
 }
