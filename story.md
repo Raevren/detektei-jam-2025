@@ -77,10 +77,7 @@ Plan
    - Ziel für nächsten Hinweis: Miau mit Pfeffer verbinden
   3. Im Garten von Miss Miau
      - Dialog
-       - Miez: Aha... Miss Miaus Garten. Marmeladenduft in der Luft – aber keine Marmelade weit und breit. Zeit, mit der ersten Verdächtigen zu sprechen...
-       - Pfeffer: [empört] Ich hörte, du suchst den Marmeladendieb – und Miss Miau glaubt, ich wär’s?! Nur weil ich jedes Jahr verliere, heißt das nicht, dass ich klauen muss!
-       - Miez: Ganz ruhig, Pfeffer. Ich sag ja nicht, dass du’s warst... noch nicht.
-       - Pfeffer: Hmpf. Typisch. Dabei hab ich gestern spät noch im Garten gearbeitet – ich wollte frische Erdbeeren für meine neue Marmelade pflücken!
+       - Pfeffer: [empört] Ich hörte, du suchst den Marmeladendieb – und Miss Miau glaubt, ich wär’s?! Nur weil ich jedes Jahr verliere, heißt das nicht, dass ich klauen muss! Dabei hab ich gestern spät noch im Garten gearbeitet – ich wollte frische Erdbeeren für meine neue Marmelade pflücken!
        - Miez: Aha, spätabends also. Hast du sonst noch jemanden gesehen?
        - Pfeffer: Jetzt, wo du’s sagst... ja! Ich sah Karl Nikel vorbeihüpfen. Der hatte’s ganz schön eilig. Ich dachte, er wär auf dem Weg zur Bäckerei – aber wer weiß. Schau doch, zwischen den Erdbeeren... da liegt irgendwas.
        - Miez: [geht hin, inspiziert den Boden, findet Löffel und Feder.] Hm... ein Löffel. Mit Marmeladenreste dran. Und eine Feder?!
