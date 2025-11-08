@@ -241,6 +241,76 @@ MonoBehaviour:
       fragen, ob er was sah."
     m_Metadata:
       m_Items: []
+  - m_Id: 395391311765504
+    m_Localized: "Kurt Kroko? \nWas machst du da?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395443958669312
+    m_Localized: Und ist das ein Vogel auf deinem Kopf?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395527278518272
+    m_Localized: "Joggen mit Peter Piep. \nWarum fragst du?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395653971664896
+    m_Localized: Wart ihr auch gestern nachts joggen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395762935488512
+    m_Localized: "Ach... ja. \nWoher wei\xDFt du das?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395861979783168
+    m_Localized: Das ist unwichtig, was habt ihr da getrieben?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395888491978752
+    m_Localized: 'Seid ihr etwa ....
+
+      .... eingebrochen?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 396049242873856
+    m_Localized: 'Was???
+
+      Nein auf keinen Fall!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 396342168870912
+    m_Localized: "Wir waren nur ganz normal joggen. \nAlso fast..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 396441733259264
+    m_Localized: "Ehrlich gesagt habe ich in\r\ndie K\xFCche geluckt..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 396579037995008
+    m_Localized: Warum das, wie kam es dazu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 396675943194624
+    m_Localized: "*piep piep*\nWir sahen nachts Licht in Miss Miaus K\xFCche! \nUnd
+      was gl\xE4hnzendes durchs Fenster!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 396833514807296
+    m_Localized: Etwa ein Glas Marmelade?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 396907372306432
+    m_Localized: "Genau!\n*sch\xFCttelt sich und verliert einige Federchen*"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397235639508992
+    m_Localized: "*gedankenversunken*\nHmmm... \ndiese Federn passen nicht zu der
+      von mir gefundenen..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397379323781120
+    m_Localized: "Nun gut, vielen Dank f\xFCr eure Kooperation."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

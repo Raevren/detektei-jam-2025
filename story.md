@@ -123,37 +123,39 @@ Plan
     - Ziel für nächsten Hinweis: Verbinung zu Karl Kroko herstellen
 5. Kurt Kroko - Der Jogger mit Durchblick (Ermittlungen am Flussufer)
     - Dialog:
-        - Mietz: Kurt Kroko? Was machst du da – und ist das ein Vogel auf deinem Kopf?
-        - Kurt: Joggen mit Peter Piep. Warum fragst du? 
+        - Mietz: Kurt Kroko? Was machst du da? Und ist das ein Vogel auf deinem Kopf?
+        - Kurt: Joggen mit Peter Piep. Warum fragst du?
         - Mietz: Wart ihr auch gestern nachts joggen?
         - Kurt: Ach... ja. Woher weißt du das?
         - Miez: Das ist unwichtig, was habt ihr da getrieben? Seid ihr etwa eingebrochen?
-        - Kurt: Was??? Nein auf keinen Fall! Wir waren nur ganz normal joggen. Also fast... Ehrlich gesagt habe ich in die Küche geluckt...
-        - Miez: Warum das, wie kam es dazu? 
-        - Kurt: Wir sahen nachts Licht in Miss Miaus Küche.
-        - Peter Piep: Und was Glitzerndes durchs Fenster!
-        - Mietz: Marmelade?
+        - Kurt: Was??? Nein auf keinen Fall! Wir waren nur ganz normal joggen. Also fast... Ehrlich gesagt habe ich in
+          die Küche geluckt...
+        - Miez: Warum das, wie kam es dazu?
+        - Peter Piep: Wir sahen nachts Licht in Miss Miaus Küche! Und was glähnzendes durchs Fenster!
+        - Mietz: Etwa ein Glas Marmelade?
         - Peter Piep: [piepst] Genau! [schüttelt sich und verliert einige Federn]
-        - Miez: Hmmm... diese Federn passen nicht zu der von mir gefundenen... Nun gut, danke für eure Kooperation.
+        - Miez: Hmmm... diese Federn passen nicht zu der von mir gefundenen... Nun gut, vielen Dank für eure Kooperation.
     - Entwicklung der Pinnwand:
         - Neuer Hinweis: Feder gehört nicht zu Peter Piep
         - Neuer Hinweis: Jemand war nachts in der Küche
         - Neuer Hinweis: Verdacht auf Henry Habicht wird stärker
     - Ziel: Henry Habicht befragen.
 6. Henry Habicht – Der Gourmet-Juror (Interview im Marmeladenjury-Zelt)
-  - Dialog:  
-      - Miez: Henry Habicht, Jury-Mitglied, richtig?
-      - Henry: [räuspert sich] Äh… ja. Warum fragen Sie, Detective?
-      - Miez: Weil Sie verdächtig nach Erdbeeren duften.
-      - Henry: Oh, das… äh… ich war gestern kurz bei Miss Miau. Rein beruflich! Ich wollte nur… verkosten.
-      - Miez: Verkosten oder stehlen?
-      - Henry: Nur ein ganz kleines Bisschen probiert, ich schwöre!
-      - Miez: Hm. Und sonst irgendwas Verdächtiges gehört?
-      - Henry: Nun ja… Zoe Ziege hat sich neulich ziemlich laut über Miss Miau beschwert. Sehr laut.  
-  - Entwicklung der Pinnwand:  
-        - Neuer Hinweis: Henrys Erdbeerduft  
-        - Zoe Ziege (neuer Verdacht)  
-  - Ziel für den nächsten Hinweis: Zoe befragen
+
+- Dialog:
+    - Miez: Henry Habicht, Jury-Mitglied, richtig?
+    - Henry: [räuspert sich] Äh… ja. Warum fragen Sie, Detective?
+    - Miez: Weil Sie verdächtig nach Erdbeeren duften.
+    - Henry: Oh, das… äh… ich war gestern kurz bei Miss Miau. Rein beruflich! Ich wollte nur… verkosten.
+    - Miez: Verkosten oder stehlen?
+    - Henry: Nur ein ganz kleines Bisschen probiert, ich schwöre!
+    - Miez: Hm. Und sonst irgendwas Verdächtiges gehört?
+    - Henry: Nun ja… Zoe Ziege hat sich neulich ziemlich laut über Miss Miau beschwert. Sehr laut.
+- Entwicklung der Pinnwand:
+    - Neuer Hinweis: Henrys Erdbeerduft
+    - Zoe Ziege (neuer Verdacht)
+- Ziel für den nächsten Hinweis: Zoe befragen
+
 7. Zoe Ziege - Die Meckernde Rivalin (Ermittlungen auf dem Hof)
 
 

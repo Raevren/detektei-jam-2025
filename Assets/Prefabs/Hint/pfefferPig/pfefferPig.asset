@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hints:
   - {fileID: 11400000, guid: c959b2d1d10ca224cab6569c9ed5c64b, type: 2}
+  - {fileID: 11400000, guid: ddb6f1578d67e564a8d5807bf76e39cb, type: 2}
   fallbackDialogs:
   - {fileID: 11400000, guid: 5ef81aeac1a9e7f4cae84a8682f80a9a, type: 2}

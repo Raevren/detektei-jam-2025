@@ -36,9 +36,8 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 107825526169600
     m_Localized: "- Tatort: K\xFCche, Marmeladenflecken, ge\xF6ffnete Hintert\xFCr\r\n-
-      Diebesgut: Marmelade\r\n- Info: Marmelade wird f\xFCr die Teilnahme am Marmeladenwettbewerb
-      ben\xF6tigt\r\n- Anschuldigung: Rivalin Pfeffer Pig, die sonst immer nur den
-      2. Platz macht!"
+      Diebesgut: Marmelade (wichtig f\xFCr den Wettbewerb!)\r\n- Anschuldigung: Rivalin
+      Pfeffer Pig, die sonst immer nur den 2. Platz macht!"
     m_Metadata:
       m_Items: []
   - m_Id: 109063063953408
@@ -50,6 +49,10 @@ MonoBehaviour:
     m_Localized: '- Suchte angeblich einen Schuh
 
       - Zeuge: sah Kurt Kroko'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125433348579328
+    m_Localized: "Verh\xF6ren!"
     m_Metadata:
       m_Items: []
   references:
