@@ -10,24 +10,27 @@ _"Meine Erdbeermarmelade wurde gestohlen!!!"_ 🍓
 Kannst du alle Hinweise finden und das Rätsel um die verschwundene Erdbeermarmelade lösen?
 
 
-# 💡 Thema
+## 💡 Thema
 "Everything is connected"  
 -> entwickelt im Rahmen des Hetzner Game Jam 2025
 
-# 🛠️ Technologien
+## 🛠️ Technologien
 - Engine: Unity 6
 - Programiersprache: C#
 - Plattform: PC (Web)
 
-# ✨ Features
-- 🎨 4 Colours GameBoy Nostalgie
+## ✨ Features
+- 🎨 4-Colours-GameBoy-Nostalgie - klassischer Retro-Look
 - 🐾 liebebvoll gestaltete Charaktere mit eigenem Charm
 - 🕹️ Minimalistische Steuerung, aber maximale Spannung
 - 🎵 Selbstkomponierter 8-bit Soundtrack
 - 🔍 Interaktives Detektivrätsel - jeder Hinweis zählt
 
-# 👥 Team
+## 👥 Team
 - Selina (Programmierung, Art, Story)
 - Nico (Peogrammmierung, Musik, Sound)
 - Johanna (Art)
 - Pascal (Programmierung)
+
+## 🔗 Everything is connected
+Und manchmal... ist die Spur näher, als du denkst. 🐾
