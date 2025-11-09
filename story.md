@@ -169,7 +169,7 @@ Plan
         - Neuer Hinweis: Fussel vom Schal
         - Professor Bello (neuer Charakter tritt aktiv auf)
   - Ziel für den nächsten Hinweis: Bello befragen 
-
+ 8. Professor Bello - Der Denker
 
 
 
