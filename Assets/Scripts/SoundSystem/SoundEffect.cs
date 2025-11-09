@@ -10,5 +10,7 @@ public class SoundEffect : ScriptableObject
 public enum CommonSfx
 {
     Submit,
-    TextM
+    TextM,
+    TextH,
+    Call
 }

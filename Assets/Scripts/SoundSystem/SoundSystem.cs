@@ -1,4 +1,5 @@
 using System.Collections;
+using System.Collections.Generic;
 using System.Threading;
 using UnityEngine;
 
@@ -7,6 +8,7 @@ public class SoundSystem : MonoBehaviour
     public static SoundSystem Instance { get; private set; }
     
     private MusicTrack _currentMusic;
+    private List<SoundEffect> _sfxPlaying = new List<SoundEffect>();
     
     [Header("Voices")] 
     [SerializeField] private AudioSource square1;
@@ -60,6 +62,7 @@ public class SoundSystem : MonoBehaviour
 
     public void PlaySfx(SoundEffect sfx)
     {
+        if (_sfxPlaying.Contains(sfx)) return;
         AudioSource sourceToMute = sfx.VoiceType switch
         {
             VoiceType.Square => square2.mute ? square1 : square2,
@@ -74,11 +77,14 @@ public class SoundSystem : MonoBehaviour
 
     private IEnumerator SfxLifetime(AudioSource source, SoundEffect sfx, AudioSource sourceToMute)
     {
+        _sfxPlaying.Add(sfx);
         source.clip = sfx.Clip;
         source.Play();
         sourceToMute.mute = true;
-        yield return new WaitForSeconds(sfx.Clip.length);
+        // The wait time has to at least be as long as the dialog text speed (otherwise the sound glitches weirdly)
+        yield return new WaitForSeconds(DialogCanvas.DialogTextSpeed > sfx.Clip.length ? DialogCanvas.DialogTextSpeed : sfx.Clip.length);
         sourceToMute.mute = false;
+        _sfxPlaying.Remove(sfx);
         Destroy(source.gameObject);
     }
     

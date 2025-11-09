@@ -9,6 +9,7 @@ using UnityEngine.UI;
 
 public class DialogCanvas : MonoBehaviour
 {
+    public static float DialogTextSpeed = 0.05f;
     private static DialogCanvas _instance;
 
     [SerializeField] private SpriteAtlas portraitAtlas;
@@ -71,11 +72,12 @@ public class DialogCanvas : MonoBehaviour
     private IEnumerator ReadText()
     {
         _isTalking = true;
+        CommonSfx voiceClip = CharacterDialogConfig.GetCharacterVoice(_currentDialog.Actor);
         while (dialogText.maxVisibleCharacters < dialogText.text.Length)
         {
-            SoundSystem.Instance.PlayGenericSfx(CommonSfx.TextM);
+            SoundSystem.Instance.PlayGenericSfx(voiceClip);
             dialogText.maxVisibleCharacters += 3;
-            yield return new WaitForSeconds(0.05f);
+            yield return new WaitForSeconds(DialogTextSpeed);
         }
         SkipText();
     }
@@ -181,6 +183,7 @@ public class DialogCanvas : MonoBehaviour
     private void Anim_Destroy()
     {
         _onEnd?.Invoke();
+        if(_sequence.PlayOnEnd != null) GameSoundManager.SwitchTrack(_sequence.PlayOnEnd);
         Destroy(gameObject);
     }
     
