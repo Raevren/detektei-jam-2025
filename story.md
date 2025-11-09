@@ -187,8 +187,8 @@ Plan
         - Miez: Verstehe...
         - Bello: Sagen Sie mal - wozu brauchen Sie die Analyse überhaupt?
         - Miez: Ich versuche herauszufinden was mit Miss Miaus Marmelade passiert ist... Vielleicht hat jemand das               Schlafbeeren..äh dingsbums in die Marmelade getan?
-        - Bello: Gut möglich. Das lässt sich natürlich mit Wissenschaft lösen... Ich werde Miss Miau diesbezüglicj             selbst untersuchen... wenn sie Schlafwandelt, hat sie wohl was vom Schlafbeerenextrakt abbekommen. Moment...           Ich notiere mir das... 
-        - Miez: Vielen Dank für Ihre Hilfe! Moment einmal... Was steht denn da in ihren Notizen? Bruno Bär hat am                Abend noch Honig bei Miss Miau vorbeigebracht?
+        - Bello: Gut möglich. Das lässt sich natürlich mit Wissenschaft lösen... Ich werde Miss Miau diesbezüglicj             selbst untersuchen... wenn sie Schlafwandelt, hat sie wohl was vom Schlafbeerenextrakt abbekommen. Am besten           notiere ich mir das... 
+        - Miez: Vielen Dank für Ihre Hilfe Professo! Moment einmal... Was steht denn da in ihren Notizen? Bruno Bär              hat am Abend noch Honig bei Miss Miau vorbeigebracht??
     - Entwicklung der Pinnwand:
         -  Neuer Hinweis: Schlafbeerenextrakt
         -  Bruno Bär
