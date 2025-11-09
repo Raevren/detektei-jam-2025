@@ -44,7 +44,7 @@ public class SoundSystem : MonoBehaviour
     /// </summary>
     public void PlayMusic(MusicTrack music)
     {
-        if (_currentMusic == music) return;
+        if (music == null || _currentMusic == music) return;
         if(_currentMusic != null) StopMusic();
         _currentMusic = music;
         
