@@ -93,4 +93,15 @@ MonoBehaviour:
       <DialogKey>k__BackingField: 6_23
     - <ActorSpriteSuffix>k__BackingField: 1
       <DialogKey>k__BackingField: 6_24
-  <PlayOnEnd>k__BackingField: {fileID: 0}
+    - <ActorSpriteSuffix>k__BackingField: 1
+      <DialogKey>k__BackingField: 6_25
+  - <Actor>k__BackingField: 8
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 2
+      <DialogKey>k__BackingField: 6_26
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 2
+      <DialogKey>k__BackingField: 6_27
+  <NewBgmOnEnd>k__BackingField: {fileID: 0}
+  <PlayWhileTalking>k__BackingField: {fileID: 0}

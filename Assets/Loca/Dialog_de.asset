@@ -597,6 +597,19 @@ MonoBehaviour:
       Bruno B\xE4r ...\nDen hab ich noch nicht befragt!"
     m_Metadata:
       m_Items: []
+  - m_Id: 647323266760704
+    m_Localized: "Oh, Sekunde.\nW\xFCrden sie diese Probe bitte auch analysieren?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 647449687277568
+    m_Localized: "Aber nat\xFCrlich.\n...\nSieht eher ungew\xF6hnlich aus, hier sind
+      keine S\xFC\xDFbeeren enthalten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 647553638907904
+    m_Localized: "Sch\xF6n.\nVielen Dank f\xFCr Ihre Zeit."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

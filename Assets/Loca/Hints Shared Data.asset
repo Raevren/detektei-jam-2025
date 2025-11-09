@@ -75,6 +75,14 @@ MonoBehaviour:
     m_Key: zoeZiege_1
     m_Metadata:
       m_Items: []
+  - m_Id: 379353416253440
+    m_Key: professorBello_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379412203618304
+    m_Key: professorBello_1
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
