@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HenryHabicht
+      name: henryHabicht_1
       rect:
         serializedVersion: 2
         x: 255
@@ -153,7 +153,7 @@ TextureImporter:
         width: 220
         height: 220
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -167,7 +167,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: henryHabicht_1
+      name: henryHabicht_2
       rect:
         serializedVersion: 2
         x: 14
@@ -175,7 +175,7 @@ TextureImporter:
         width: 220
         height: 220
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -189,7 +189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: henryHabicht_2
+      name: henryHabicht_3
       rect:
         serializedVersion: 2
         x: 254
@@ -197,7 +197,7 @@ TextureImporter:
         width: 220
         height: 220
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -224,10 +224,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      HenryHabicht: -1232896457
       henryHabicht_0: 2125747502
-      henryHabicht_1: 1160948957
-      henryHabicht_2: 463603677
+      henryHabicht_1: -1232896457
+      henryHabicht_2: 1160948957
+      henryHabicht_3: 463603677
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

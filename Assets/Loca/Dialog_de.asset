@@ -311,6 +311,71 @@ MonoBehaviour:
     m_Localized: "Nun gut, vielen Dank f\xFCr eure Kooperation."
     m_Metadata:
       m_Items: []
+  - m_Id: 570505017909248
+    m_Localized: ' Henry Habicht, Marmeladen-Jury-Mitglied, richtig?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 570648416968704
+    m_Localized: "*r\xE4uspert sich*\nNat\xFCrlich.\nWarum fragen Sie, Detective?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 570873495904256
+    m_Localized: "Weil Sie verd\xE4chtig nach Erdbeeren duften.\nAu\xDFerdem wurde
+      gestern Miss Miaus Marmelade entwendet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571270872653824
+    m_Localized: "Oh, das\u2026 \n\xE4h\u2026 ich war gestern Abend kurz bei Miss
+      Miau. \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571399214161920
+    m_Localized: "Rein beruflich!\nIch wollte nur\u2026 verkosten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571629384982528
+    m_Localized: Verkosten oder stehen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571786289700864
+    m_Localized: "Zudem, wie kommt es dazu, \ndass Sie vor dem offizielen Wettbewerb
+      \ndie Marmelade einer Teilnehmerin verkosten?!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 572225315889152
+    m_Localized: "Das verstehen Sie g\xE4nzlich falsch!\nWobei, ich sag lieber nix
+      dazu..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 572446653505536
+    m_Localized: "Ich hab auf jeden Fall nur ein ganz kleines bisschen probiert.\nIch
+      schw\xF6re!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 572564324704256
+    m_Localized: 'Mehr ist nicht gelaufen.
+
+      Ich bin direkt nach Hause und schlafen
+      gegangen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 572961399463936
+    m_Localized: "Hm. \nUnd sonst irgendwas Verd\xE4chtiges geh\xF6rt oder gesehen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 573158011658240
+    m_Localized: "Nun ja...\nFrau Ziege hat sich neulich ziemlich laut \xFCber Miss
+      Miau beschwert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 573308033523712
+    m_Localized: Sehr laut.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 573340254167040
+    m_Localized: "Vielleicht will sie ihr etwas auswischen.\nWer wei\xDF."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

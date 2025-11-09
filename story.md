@@ -134,7 +134,8 @@ Plan
         - Peter Piep: Wir sahen nachts Licht in Miss Miaus Küche! Und was glähnzendes durchs Fenster!
         - Mietz: Etwa ein Glas Marmelade?
         - Peter Piep: [piepst] Genau! [schüttelt sich und verliert einige Federn]
-        - Miez: Hmmm... diese Federn passen nicht zu der von mir gefundenen... Nun gut, vielen Dank für eure Kooperation.
+        - Miez: Hmmm... diese Federn passen nicht zu der von mir gefundenen... Nun gut, vielen Dank für eure
+          Kooperation.
     - Entwicklung der Pinnwand:
         - Neuer Hinweis: Feder gehört nicht zu Peter Piep
         - Neuer Hinweis: Jemand war nachts in der Küche
@@ -157,7 +158,41 @@ Plan
 - Ziel für den nächsten Hinweis: Zoe befragen
 
 7. Zoe Ziege - Die Meckernde Rivalin (Ermittlungen auf dem Hof)
-
+    - Dialog
+      - Miez: Hallo Zoe, ich hörte Sie haben sich neulich ziemlich laut über Miss Miau beschwert. Können Sie mir               erzählen, was vorgefallen ist?
+      - Zoe: Es geht um den Erdbeermarmeladen-Wettbewerb. Immer gewinnt Miss Miau mit ihrer BLÖDEN MARMELADE!                  [flüsternd] Ich kann sie überhaupt nicht leiden... [wieder laut] Und wenn Sie mich fragen, verdient Pfeffer            Pig viel mehr den Sieg. Da wäre es ja tragisch, wenn Miss Miaus Marmelade genau vor dem Wettbewerb           verschwindet... 
+      - Miez: Aha. So, so. Ich habe Ihnen doch gar nicht gesagt, dass es sich um einen Diebstahl handelt! Sehr                 verdächtig... Erzählen Sie doch mal: Wo waren Sie gestern Nacht??
+      - Zeo: Ein Diebstahl? Gestern Nacht? Da war ich selbstverständlich beim Schafsstricken-Treff! So wie jeden               Sonntag. Und selbst wenn... [flüsternd] Geschieht Miss Miau recht... Sie und ihre blöde Marmelade...
+      - Miez: Können Sie mir erklären was es mit den roten Fusseln auf Ihrem Küchentisch auf sich hat? [nachdenklich]         Das sieht ja fast aus wie ein Erdbeerklecks...
+      - Zoe: Detektiv Miez, Wie können Sie es wagen, MICH zu verdächtigen? Sie verschwenden Ihre Zeit! Fragen Sie doch         mal Professor Bello! ICH habe GENAU beobachtet, wie er am Abend zuvor in die Richtung von Miaus Haus ging.
+  - Entwicklung der Pinnwand:
+        - Neuer Hinweis: Fussel vom Schal
+        - Professor Bello (neuer Charakter tritt aktiv auf)
+  - Ziel für den nächsten Hinweis: Bello befragen 
+ 8. Professor Bello - Der Denker
+    - Dialog
+        - Miez: Professsor Bello ich störe Sie ja nur ungern...
+        - Bello: Einen Moment... Ich muss noch... Ah... Das Teil muss hier ran... Und dann... Jetzt sollte es         funktionieren! Entschuldigen Sie, Ich arbeite gerade an meiner "Marmeladenanalysemaschine". Miez, Reichen Sie mir den Schraubenschlüssel?
+        - Miez: Hier bitteschön. Das trifft sich gut Professor. Genau deswegen bin ich zu Ihnen gekommen... Könnten               Sie diese Marmelade für mich analysieren?
+        - Bello: Hm, gerne kann ich das tun. Zum Glück ist die Machine wieder repariert. Bitte einmal hier die                    Marmelade eingeben.
+          .....
+          (Die Maschine gibt komische Geräusche von sich)
+          .....
+          .....
+        - Bello: Das ist ja seltsam... Äußerst interessant... Äußerst interessant...
+        - Miez: Und? Was haben Sie herausgefunden?
+        - Bello: Nun ja... Die Analyse zeigt, dass die Marmelade "Schlafbeerenextrakt" enthält
+        - Miez: Schlafbeeren- was?
+        - Bello: Schlafbeerenextrakt! Das ist eine seltene Zutat, die bei Verzehr schläfrig macht.
+        - Miez: Verstehe...
+        - Bello: Sagen Sie mal - wozu brauchen Sie die Analyse überhaupt?
+        - Miez: Ich versuche herauszufinden was mit Miss Miaus Marmelade passiert ist... Vielleicht hat jemand das               Schlafbeeren..äh dingsbums in die Marmelade getan?
+        - Bello: Gut möglich. Das lässt sich natürlich mit Wissenschaft beantworten... Ich werde Miss Miau diesbezüglich selbst untersuchen... wenn sie Schlafwandelt, hat sie wohl was vom Schlafbeerenextrakt abbekommen. Am besten notiere ich mir das... 
+        - Miez: Vielen Dank für Ihre Hilfe Professor! Moment einmal... Was steht denn da in ihren Notizen? Bruno Bär              hat am Abend noch Honig bei Miss Miau vorbeigebracht??
+    - Entwicklung der Pinnwand:
+        -  Neuer Hinweis: Schlafbeerenextrakt
+        -  Bruno Bär
+    - Ziel für den nächsten Hinweis: Bruno befragen
 
 
 
