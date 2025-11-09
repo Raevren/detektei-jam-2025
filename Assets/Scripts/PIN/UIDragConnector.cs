@@ -138,6 +138,7 @@ namespace PIN
 
         private void HandleClick()
         {
+            SoundSystem.Instance.PlayGenericSfx(CommonSfx.ClickPin);
             _hintManager.ShowHint(_hint);
         }
 
