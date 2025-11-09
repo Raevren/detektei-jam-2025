@@ -200,7 +200,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 368085864243200
-    m_Localized: "Oh! \xC4h\u2014Mietz!"
+    m_Localized: "Oh! \xC4h\u2014Miez!"
     m_Metadata:
       m_Items: []
   - m_Id: 368464949633024
@@ -526,7 +526,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 633169130733568
-    m_Localized: "* Die Maschiene gibt komische Ger\xE4usche von sich *"
+    m_Localized: "* Die Maschine gibt komische Ger\xE4usche von sich *"
     m_Metadata:
       m_Items: []
   - m_Id: 633914328530944
@@ -568,7 +568,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 637991523368960
-    m_Localized: "Vielleicht hat jemand das Schlafbeeren..\xE4h dingsbums in die
+    m_Localized: "Vielleicht hat jemand das Schlafbeeren..\xE4h Dingsbums in die
       Marmelade getan?"
     m_Metadata:
       m_Items: []
@@ -578,17 +578,17 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 639425413300224
-    m_Localized: "Ich werde Miss Miau diesbez\xFCglich selbst untersuchen... \nw
-      enn sie Schlafwandelt, hat sie wohl was vom Schlafbeerenextrakt abbekommen.Am
+    m_Localized: "Ich werde Miss Miau diesbez\xFCglich selbst untersuchen... \nwenn
+      sie schlafwandelt, hat sie wohl was vom Schlafbeerenextrakt abbekommen. Am
       besten notieren wir uns das..."
     m_Metadata:
       m_Items: []
   - m_Id: 640698367787008
-    m_Localized: "Vielen Dank f\xFCr Ihre Hilfe Professor! \n"
+    m_Localized: "Vielen Dank f\xFCr Ihre Hilfe, Professor! \n"
     m_Metadata:
       m_Items: []
   - m_Id: 640840605024256
-    m_Localized: "Moment einmal... \nWas steht denn da in ihren Notizen?"
+    m_Localized: "Moment einmal... \nWas steht denn da in Ihren Notizen?"
     m_Metadata:
       m_Items: []
   - m_Id: 640924776316928
@@ -614,7 +614,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 655553585922048
-    m_Localized: "Ich wollte ihr eigentlich meine neues Kunstst\xFCck auf dem Einrad
+    m_Localized: "Ich wollte ihr eigentlich mein neues Kunstst\xFCck auf dem Einrad
       zeigen..."
     m_Metadata:
       m_Items: []
@@ -628,12 +628,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 655895895654400
-    m_Localized: "Nun ja. \nJetzt wo du es sagst - Miss Miez hatte einen L\xF6ffel
+    m_Localized: "Nun ja. \nJetzt wo du es sagst - Miss Miau hatte einen L\xF6ffel
       in der Pfote... \nund Marmelade... im Fell."
     m_Metadata:
       m_Items: []
   - m_Id: 656004842700800
-    m_Localized: "Verstehe... \nVielen Dank Bruno..."
+    m_Localized: "Verstehe... \nVielen Dank, Bruno..."
     m_Metadata:
       m_Items: []
   - m_Id: 656068096999424
@@ -651,14 +651,14 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 659814227034112
-    m_Localized: "Hast du meine Marmelade gefunden?\nIch brauche Sie unbedingt f\xFCr
+    m_Localized: "Hast du meine Marmelade gefunden?\nIch brauche sie unbedingt f\xFCr
       den Wettbewerb!"
     m_Metadata:
       m_Items: []
   - m_Id: 659950000848896
     m_Localized: 'Leider nicht, aber ich habe eine Vermutung!
 
-      Darf ich evtl.
+      Darf ich eventuell
       dein Schlafzimmer untersuchen?'
     m_Metadata:
       m_Items: []

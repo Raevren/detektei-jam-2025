@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Sqaure1>k__BackingField: {fileID: 8300000, guid: 60414ae87fdea2f4f867eb34b09dd3a1, type: 3}
   <Sqaure2>k__BackingField: {fileID: 8300000, guid: 01dbd7cc34b086640b644eccbee3e334, type: 3}
-  <Wave>k__BackingField: {fileID: 8300000, guid: 6979652b6fc8af34c8c7b90e43ec97a7, type: 3}
-  <Noise>k__BackingField: {fileID: 8300000, guid: f611a00745f2f86458f94840fea63315, type: 3}
+  <Wave>k__BackingField: {fileID: 8300000, guid: d8a19868f9b1c5b46934115aa04ecc08, type: 3}
+  <Noise>k__BackingField: {fileID: 8300000, guid: 9e62a821e9d475349a76e988d3ce4083, type: 3}
