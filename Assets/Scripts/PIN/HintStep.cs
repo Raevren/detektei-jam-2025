@@ -1,3 +1,4 @@
+using System.Linq;
 using UnityEngine;
 using UnityEngine.Localization.Settings;
 
@@ -16,4 +17,9 @@ public class HintStep : ScriptableObject
     /// Load description from loca
     /// </summary>
     public string GetDescription => LocalizationSettings.StringDatabase.GetLocalizedString("Hints", name);
+
+    public bool CanBeConnectedTo(Hint hint)
+    {
+        return NeededConnectedHints.Contains(hint) || AlternativeConnectedHints.Contains(hint);
+    }
 }

@@ -882,6 +882,7 @@ MonoBehaviour:
   startHints:
   - {fileID: 11400000, guid: e75c8e64e8744c24cb51cf3d109cdfd5, type: 2}
   - {fileID: 11400000, guid: 39e212c13314ec147b0fd9bd505311ed, type: 2}
+  wrongConnectionDialog: {fileID: 11400000, guid: 3f55075e05c010f489d6c695758dea51, type: 2}
 --- !u!114 &674351142
 MonoBehaviour:
   m_ObjectHideFlags: 0

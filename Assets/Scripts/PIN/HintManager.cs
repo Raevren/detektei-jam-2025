@@ -4,6 +4,7 @@ using System.Linq;
 using PIN;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Rendering.UI;
 using UnityEngine.UI;
 
 public class HintManager : MonoBehaviour
@@ -33,6 +34,8 @@ public class HintManager : MonoBehaviour
     
     public Hint CurrentHint { get; private set; }
     public HintStep CurrentHintStep { get; private set; }
+
+    [SerializeField] private DialogSequence wrongConnectionDialog;
 
     private void Init()
     {
@@ -133,13 +136,18 @@ public class HintManager : MonoBehaviour
         PlayerPrefs.SetString("hint_unlocked", string.Join(",", _unlockedHints));
         PlayerPrefs.Save();
     }
+
+    private static HintStep GetCurrentHintStep(Hint hint, out int stepIndex)
+    {
+        var key = "hints_" + hint.name;
+        stepIndex = PlayerPrefs.GetInt(key, 0);
+        return hint.hints[stepIndex];
+    }
     
     public void ShowHint(Hint hint)
     {
         CurrentHint = hint;
-        var key = "hints_" + hint.name;
-        var currentHintStep = PlayerPrefs.GetInt(key, 0);
-        CurrentHintStep = hint.hints[currentHintStep];
+        CurrentHintStep = GetCurrentHintStep(hint, out int currentHintStep);
 
         if (hint.hints == null || hint.hints.Length == 0)
         {
@@ -179,6 +187,12 @@ public class HintManager : MonoBehaviour
 
     public bool AddHintConnection(Hint hintOne, Hint hintTwo)
     {
+        if (!CheckAllowedConnection(hintOne, hintTwo))
+        {
+            Debug.Log("[HintManager] AddHintConnection: connection is not allowed at this moment, skipping. (And telling player they're stupid)");
+            DialogCanvas.Spawn(wrongConnectionDialog);
+            return false;
+        }
         var key = BuildHintKey(hintOne, hintTwo);
 
         // Already exists?
@@ -230,6 +244,12 @@ public class HintManager : MonoBehaviour
         Debug.Log($"[HintManager] AddHintConnection: connection '{key}' added and saved. Total connections: {_hintConnectionsKeys.Count}");
         return true;
     }
+
+    private bool CheckAllowedConnection(Hint one, Hint two)
+    {
+        return GetCurrentHintStep(one, out _).CanBeConnectedTo(two) || GetCurrentHintStep(two, out _).CanBeConnectedTo(one);
+    }
+    
 
     public bool HintStepHasNewDialog(Hint hint)
     {
