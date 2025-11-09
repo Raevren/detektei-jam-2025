@@ -2,7 +2,7 @@
 _Ein Detektiv-Spiel entwickelt beim Franken Game Jam 2025_
 
 ## 🎮 Gameplay
-Du spielst als Detective Mietz - der klügste Kopf in ganz Pfötchenhausen.  
+Du spielst als Detective Miez - der klügste Kopf in ganz Pfötchenhausen.  
 Eines Morgens erhälst du einen Anruf von deiner guten Freundin Miss Miau:  
 
 _"Meine Erdbeermarmelade wurde gestohlen!!!"_ 🍓  
