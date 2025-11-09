@@ -609,6 +609,37 @@ MonoBehaviour:
     m_Localized: "Sch\xF6n.\nVielen Dank f\xFCr Ihre Zeit."
     m_Metadata:
       m_Items: []
+  - m_Id: 655353186271232
+    m_Localized: "Miss Miau? \nJa, ich war gestern bei Miss Miau."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 655553585922048
+    m_Localized: "Ich wollte ihr eigentlich meine neues Kunstst\xFCck auf dem Einrad
+      zeigen..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 655659060084736
+    m_Localized: "Doch als ich ankam... Da war sie am D\xF6sen... \nZzzzz... \nZzzzz..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 655791931441152
+    m_Localized: "Aha. \nMiss Miez hat also geschlafen, als du ankamst. \nIst dir
+      sonst noch etwas aufgefallen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 655895895654400
+    m_Localized: "Nun ja. \nJetzt wo du es sagst - Miss Miez hatte einen L\xF6ffel
+      in der Pfote... \nund Marmelade... im Fell."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 656004842700800
+    m_Localized: "Verstehe... \nVielen Dank Bruno..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 656068096999424
+    m_Localized: "Ich glaube ich bin der L\xF6sung auf der Spur..."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

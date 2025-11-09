@@ -83,6 +83,14 @@ MonoBehaviour:
     m_Key: professorBello_1
     m_Metadata:
       m_Items: []
+  - m_Id: 389899666505728
+    m_Key: "brunoB\xF6r_0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390163286900736
+    m_Key: "brunoB\xF6r_1"
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

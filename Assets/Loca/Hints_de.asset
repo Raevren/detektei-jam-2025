@@ -95,6 +95,14 @@ MonoBehaviour:
       vom Schal ist gew\xF6hnlich"
     m_Metadata:
       m_Items: []
+  - m_Id: 389899666505728
+    m_Localized: Im Zirkus besuchen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390163286900736
+    m_Localized: "- besuchte Miss Mau\n- fand sie schl\xE4frig vor"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

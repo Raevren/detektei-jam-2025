@@ -233,8 +233,9 @@ Plan
     - Miss Miau: Natürlich, nur zu.
     - Miez: Da liegt doch etwas... Unter dem Bett? Ich traue meinen Augen nicht. Das leere Marmeladenglas!
     - Miss Miau: Wie kommt das denn da hin?
-      - Bello: Das sagt uns die Wissenschaft. Die Spuren vom Glas stammen eindeutig von Miss Miaus Pfoten. Das bestätigt
-      meine Hypothese. Durch das Schlafbeerenextrakt war Miss Miau schlafwandelnd unterwegs...
+        - Bello: Das sagt uns die Wissenschaft. Die Spuren vom Glas stammen eindeutig von Miss Miaus Pfoten. Das
+          bestätigt
+          meine Hypothese. Durch das Schlafbeerenextrakt war Miss Miau schlafwandelnd unterwegs...
     - Miez: ... und hat ihre Marmelade selbst genascht!
 - Entwicklung der Pinnwand: Miss Miau hat ihre Marmelade im Schaf gegessen! Niemand war der Dieb - außer sie selbst.
     - Dialog
