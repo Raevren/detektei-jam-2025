@@ -204,6 +204,16 @@ Plan
         -  Bruno Bär
     - Ziel für den nächsten Hinweis: Bruno befragen
 
+9. Bruno Bär (Zirkuszelt)
+      - Dialog
+        - Bruno: Ja ich war gestern bei Miss Miau. Ich wollte ihr eigentlich meine neues Kunststück auf dem Einrad zeigen... Doch als ich ankam... Da war sie am Dösen... Zzzzz... Zzzzz...
+        - Miez: Aha. Miss Miez hat also geschlafen, als du ankamst. Ist dir sonst noch etwas aufgefallen?
+        - Bruno: Nun ja. Jetzt wo du es sagst - Miss Miez hatte einen Löffel in der Pfote... und Marmelade... im Fell.
+        - Miez: Verstehe... Vielen Dank Bruno... Ich glaube ich bin der Lösung auf der Spur...
+      - Entwicklung der Pinwnwand:
+        - Neuer Hinweis: Miss Miau schien bereits zu schlafen
+        - Neuer Hinweis: Löffel in der Pfote
+      - Ziel: Zurück zu Miss Miau
 
 
 
