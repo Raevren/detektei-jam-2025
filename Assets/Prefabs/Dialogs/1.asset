@@ -19,11 +19,11 @@ MonoBehaviour:
       <DialogKey>k__BackingField: 1_0
   - <Actor>k__BackingField: 6
     <Lines>k__BackingField:
-    - <ActorSpriteSuffix>k__BackingField: 
+    - <ActorSpriteSuffix>k__BackingField: 1
       <DialogKey>k__BackingField: 1_1
-    - <ActorSpriteSuffix>k__BackingField: 
+    - <ActorSpriteSuffix>k__BackingField: 1
       <DialogKey>k__BackingField: 1_2
-    - <ActorSpriteSuffix>k__BackingField: 
+    - <ActorSpriteSuffix>k__BackingField: 1
       <DialogKey>k__BackingField: 1_3
   - <Actor>k__BackingField: 0
     <Lines>k__BackingField:
@@ -49,12 +49,10 @@ MonoBehaviour:
       <DialogKey>k__BackingField: 1_11
   - <Actor>k__BackingField: 6
     <Lines>k__BackingField:
-    - <ActorSpriteSuffix>k__BackingField: 
+    - <ActorSpriteSuffix>k__BackingField: 1
       <DialogKey>k__BackingField: 1_12
     - <ActorSpriteSuffix>k__BackingField: 
       <DialogKey>k__BackingField: 1_13
-    - <ActorSpriteSuffix>k__BackingField: 
-      <DialogKey>k__BackingField: 1_11
   - <Actor>k__BackingField: 0
     <Lines>k__BackingField:
     - <ActorSpriteSuffix>k__BackingField: 

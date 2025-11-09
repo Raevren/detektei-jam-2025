@@ -39,11 +39,11 @@ MonoBehaviour:
       <DialogKey>k__BackingField: 3_6
   - <Actor>k__BackingField: 5
     <Lines>k__BackingField:
-    - <ActorSpriteSuffix>k__BackingField: 
+    - <ActorSpriteSuffix>k__BackingField: 2
       <DialogKey>k__BackingField: 3_7
-    - <ActorSpriteSuffix>k__BackingField: 
+    - <ActorSpriteSuffix>k__BackingField: 2
       <DialogKey>k__BackingField: 3_8
-    - <ActorSpriteSuffix>k__BackingField: 
+    - <ActorSpriteSuffix>k__BackingField: 0
       <DialogKey>k__BackingField: 3_9
   - <Actor>k__BackingField: 0
     <Lines>k__BackingField:
