@@ -190,6 +190,7 @@ public class HintManager : MonoBehaviour
         if (!CheckAllowedConnection(hintOne, hintTwo))
         {
             Debug.Log("[HintManager] AddHintConnection: connection is not allowed at this moment, skipping. (And telling player they're stupid)");
+            SoundSystem.Instance?.PlayGenericSfx(CommonSfx.Question);
             DialogCanvas.Spawn(wrongConnectionDialog);
             return false;
         }
