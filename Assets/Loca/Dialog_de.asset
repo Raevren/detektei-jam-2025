@@ -377,9 +377,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 581608959598592
-    m_Localized: "* Nach einer kurzen Ank\xFCndigung treffen sich Miez und Zoe *\nHallo
-      Zoe, ich h\xF6rte Sie haben sich neulich zienlich laut \xFCber Miss Miau beschwert.
-      K\xF6nnen Sie mir erz\xE4hlen, was vorgefallen ist?"
+    m_Localized: "Hallo Zoe, ich h\xF6rte Sie haben sich neulich zienlich laut \xFCber
+      Miss Miau beschwert. K\xF6nnen Sie mir erz\xE4hlen, was vorgefallen ist?"
     m_Metadata:
       m_Items: []
   - m_Id: 581884336627712
