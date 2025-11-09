@@ -61,3 +61,5 @@ MonoBehaviour:
       <DialogKey>k__BackingField: 1_15
     - <ActorSpriteSuffix>k__BackingField: 
       <DialogKey>k__BackingField: 1_16
+  <NewBgmOnEnd>k__BackingField: {fileID: 0}
+  <PlayWhileTalking>k__BackingField: {fileID: 11400000, guid: 61a7658a30f0ce843a167590b5a34adf, type: 2}

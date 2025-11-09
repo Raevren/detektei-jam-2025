@@ -13,8 +13,7 @@ MonoBehaviour:
   m_Name: missMiau_0
   m_EditorClassIdentifier: 
   <CompletedDialog>k__BackingField: {fileID: 0}
-  <HintsToUnlock>k__BackingField:
-  - {fileID: 11400000, guid: a24eafd9b21761c469286779c300314e, type: 2}
+  <HintsToUnlock>k__BackingField: []
   <NeededConnectedHints>k__BackingField:
   - {fileID: 11400000, guid: 39e212c13314ec147b0fd9bd505311ed, type: 2}
   <AlternativeConnectedHints>k__BackingField: []

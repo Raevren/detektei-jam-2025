@@ -12,9 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ffbc95c344114a3f8a79a9015a4b198, type: 3}
   m_Name: pfefferPig_1
   m_EditorClassIdentifier: 
-  <CompletedDialog>k__BackingField: {fileID: 11400000, guid: 5f666c291bead6844b40eef8ae896767, type: 2}
-  <HintsToUnlock>k__BackingField:
-  - {fileID: 11400000, guid: a24eafd9b21761c469286779c300314e, type: 2}
+  <CompletedDialog>k__BackingField: {fileID: 0}
+  <HintsToUnlock>k__BackingField: []
   <NeededConnectedHints>k__BackingField: []
   <AlternativeConnectedHints>k__BackingField: []
   <HintImage>k__BackingField: {fileID: -1530874257, guid: acebfe186f71bad4f8b4d4d873fe3d70, type: 3}

@@ -1,9 +1,10 @@
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class GameSoundManager : MonoBehaviour
 {
     private static GameSoundManager _instance;
-    [SerializeField] private MusicTrack introMusic;
+    [SerializeField] private MusicTrack defaultTrack;
     private const string BGMKey = "CurrentTownMusic";
 
     private void Awake()
@@ -36,8 +37,8 @@ public class GameSoundManager : MonoBehaviour
     private void LoadTownBGM()
     {
         SoundSystem.Instance.PlayMusic(PlayerPrefs.HasKey(BGMKey)
-            ? Resources.Load<MusicTrack>("BGM/" + PlayerPrefs.GetString(BGMKey)) ?? introMusic
-            : introMusic);
+            ? Resources.Load<MusicTrack>("BGM/" + PlayerPrefs.GetString(BGMKey)) ?? defaultTrack
+            : defaultTrack);
     }
 
     /// <summary>

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ffbc95c344114a3f8a79a9015a4b198, type: 3}
   m_Name: zoeZiege_0
   m_EditorClassIdentifier: 
-  <CompletedDialog>k__BackingField: {fileID: 0}
+  <CompletedDialog>k__BackingField: {fileID: 11400000, guid: df0035eba1234ba41b5d66b9dbc9fa73, type: 2}
   <HintsToUnlock>k__BackingField: []
   <NeededConnectedHints>k__BackingField: []
   <AlternativeConnectedHints>k__BackingField: []

@@ -10,7 +10,10 @@ public class DialogSequence : ScriptableObject
     [field: SerializeField] public List<CharacterDialog> Dialogs { get; private set; }
     
     // If set, this will be the new town BGM until overridden
-    [field: SerializeField] public MusicTrack PlayOnEnd { get; private set; }
+    [field: SerializeField] public MusicTrack NewBgmOnEnd { get; private set; }
+    
+    // The music that plays while talking
+    [field: SerializeField] public MusicTrack PlayWhileTalking { get; private set;  }
 }
 
 [Serializable]
