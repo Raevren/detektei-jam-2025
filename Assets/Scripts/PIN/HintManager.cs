@@ -117,7 +117,7 @@ public class HintManager : MonoBehaviour
     {
         var failed = step.NeededConnectedHints.Select(stepNeededConnectedHint => BuildHintKey(hint, stepNeededConnectedHint)).Any(key => !_hintConnectionsKeys.Contains(key));
         if (!failed) return true;
-        failed = step.AlternativeConnectedHints.Select(stepNeededConnectedHint => BuildHintKey(hint, stepNeededConnectedHint)).Any(key => !_hintConnectionsKeys.Contains(key));
+        failed = (step.AlternativeConnectedHints.Length == 0) || step.AlternativeConnectedHints.Select(stepNeededConnectedHint => BuildHintKey(hint, stepNeededConnectedHint)).Any(key => !_hintConnectionsKeys.Contains(key));
         return !failed;
     }
 
@@ -269,5 +269,17 @@ public class HintManager : MonoBehaviour
 
         return _connectors.Where(uiDragConnector => uiDragConnector is not null)
             .FirstOrDefault(uiDragConnector => uiDragConnector.Hint is not null && uiDragConnector.Hint.name == hintName);
+    }
+    
+    public void OnStepCompleted(HintStep hintStep)
+    {
+        foreach (var hint in hintStep.HintsToUnlock)
+        {
+            UnlockHint(hint);
+        }
+        var key = "hints_" + CurrentHint.name;
+        var currentHintStepIndex = PlayerPrefs.GetInt(key, 0) + 1;
+        PlayerPrefs.SetInt(key, currentHintStepIndex);
+        ShowHint(CurrentHint);
     }
 }
