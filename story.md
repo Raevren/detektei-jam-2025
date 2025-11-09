@@ -178,13 +178,18 @@ Plan
 - Entwicklung der Pinnwand:
     - Neuer Hinweis: Fussel vom Schal
     - Professor Bello (neuer Charakter tritt aktiv auf)
-- Ziel für den nächsten Hinweis: Bello befragen 
+- Ziel für den nächsten Hinweis: Bello befragen
+
 8. Professor Bello - Der Denker
     - Dialog
         - Miez: Professsor Bello ich störe Sie ja nur ungern...
-        - Bello: Einen Moment... Ich muss noch... Ah... Das Teil muss hier ran... Und dann... Jetzt sollte es         funktionieren! Entschuldigen Sie, Ich arbeite gerade an meiner "Marmeladenanalysemaschine". Miez, Reichen Sie mir den Schraubenschlüssel?
-        - Miez: Hier bitteschön. Das trifft sich gut Professor. Genau deswegen bin ich zu Ihnen gekommen... Könnten               Sie diese Marmelade für mich analysieren?
-        - Bello: Hm, gerne kann ich das tun. Zum Glück ist die Machine wieder repariert. Bitte einmal hier die                    Marmelade eingeben.
+        - Bello: Einen Moment... Ich muss noch... Ah... Das Teil muss hier ran... Und dann... Jetzt sollte es
+          funktionieren! Entschuldigen Sie, Ich arbeite gerade an meiner "Marmeladenanalysemaschine". Miez, Reichen Sie
+          mir den Schraubenschlüssel?
+        - Miez: Hier bitteschön. Das trifft sich gut Professor. Genau deswegen bin ich zu Ihnen gekommen... Könnten Sie
+          diese Marmelade für mich analysieren?
+        - Bello: Hm, gerne kann ich das tun. Zum Glück ist die Machine wieder repariert. Bitte einmal hier die Marmelade
+          eingeben.
           .....
           (Die Maschine gibt komische Geräusche von sich)
           .....
@@ -196,36 +201,43 @@ Plan
         - Bello: Schlafbeerenextrakt! Das ist eine seltene Zutat, die bei Verzehr schläfrig macht.
         - Miez: Verstehe...
         - Bello: Sagen Sie mal - wozu brauchen Sie die Analyse überhaupt?
-        - Miez: Ich versuche herauszufinden was mit Miss Miaus Marmelade passiert ist... Vielleicht hat jemand das               Schlafbeeren..äh dingsbums in die Marmelade getan?
-        - Bello: Gut möglich. Das lässt sich natürlich mit Wissenschaft beantworten... Ich werde Miss Miau diesbezüglich selbst untersuchen... wenn sie Schlafwandelt, hat sie wohl was vom Schlafbeerenextrakt abbekommen. Am besten notiere ich mir das... 
-        - Miez: Vielen Dank für Ihre Hilfe Professor! Moment einmal... Was steht denn da in ihren Notizen? Die                   Aufführung von Bruno Bär im Zirkus?? Bruno Bär... Bruno Bär... den habe ich noch nicht befragt!
+        - Miez: Ich versuche herauszufinden was mit Miss Miaus Marmelade passiert ist... Vielleicht hat jemand das
+          Schlafbeeren..äh dingsbums in die Marmelade getan?
+        - Bello: Gut möglich. Das lässt sich natürlich mit Wissenschaft beantworten... Ich werde Miss Miau diesbezüglich
+          selbst untersuchen... wenn sie Schlafwandelt, hat sie wohl was vom Schlafbeerenextrakt abbekommen. Am besten
+          notiere ich mir das...
+        - Miez: Vielen Dank für Ihre Hilfe Professor! Moment einmal... Was steht denn da in ihren Notizen? Die
+          Aufführung von Bruno Bär im Zirkus?? Bruno Bär... Bruno Bär... den habe ich noch nicht befragt!
     - Entwicklung der Pinnwand:
-        -  Neuer Hinweis: Schlafbeerenextrakt
-        -  Bruno Bär
+        - Neuer Hinweis: Schlafbeerenextrakt
+        - Bruno Bär
     - Ziel für den nächsten Hinweis: Bruno befragen
 
 9. Bruno Bär (Zirkuszelt)
-      - Dialog
-        - Bruno: Miss Miau? Ja, ich war gestern bei Miss Miau. Ich wollte ihr eigentlich meine neues Kunststück auf   dem Einrad zeigen... Doch als ich ankam... Da war sie am Dösen... Zzzzz... Zzzzz...
+    - Dialog
+        - Bruno: Miss Miau? Ja, ich war gestern bei Miss Miau. Ich wollte ihr eigentlich meine neues Kunststück auf dem
+          Einrad zeigen... Doch als ich ankam... Da war sie am Dösen... Zzzzz... Zzzzz...
         - Miez: Aha. Miss Miez hat also geschlafen, als du ankamst. Ist dir sonst noch etwas aufgefallen?
         - Bruno: Nun ja. Jetzt wo du es sagst - Miss Miez hatte einen Löffel in der Pfote... und Marmelade... im Fell.
         - Miez: Verstehe... Vielen Dank Bruno... Ich glaube ich bin der Lösung auf der Spur...
-      - Entwicklung der Pinwnwand:
+    - Entwicklung der Pinwnwand:
         - Neuer Hinweis: Miss Miau schien bereits zu schlafen
         - Neuer Hinweis: Löffel in der Pfote
-      - Ziel: Zurück zu Miss Miau
-  
-  10. Finale (Rückkehr zu Miss Miau)
-  -  Dialog
-        - Miss Miau: Oh Miez, zum Glück bist du wieder da! Konntest du den Dieb schnappen?
-        - Miez: Ich habe da so eine Vermutung... Hm... Darf ich dein Schlafzimmer untersuchen?
-        - Miss Miau: Natürlich, nur zu.
-        - Miez: Da liegt doch etwas... Unter dem Bett? Ich traue meinen Augen nicht. Das leere Marmeladenglas!
-        - Miss Miau: Wie kommt das denn da hin?
-         - Bello: Das sagt uns die Wissenschaft. Die Spuren vom Glas stammen eindeutig von Miss Miaus Pfoten. Das       bestätigt meine Hypothese. Durch das Schlafbeerenextrakt war Miss Miau schlafwandelnd unterwegs... 
-        - Miez: ... und hat ihre Marmelade selbst genascht!
-  -  Entwicklung der Pinnwand: Miss Miau hat ihre Marmelade im Schaf gegessen! Niemand war der Dieb - außer sie selbst.
-      - Dialog
+    - Ziel: Zurück zu Miss Miau
+
+10. Finale (Rückkehr zu Miss Miau)
+
+- Dialog
+    - Miss Miau: Oh Miez, zum Glück bist du wieder da! Konntest du den Dieb schnappen?
+    - Miez: Ich habe da so eine Vermutung... Hm... Darf ich dein Schlafzimmer untersuchen?
+    - Miss Miau: Natürlich, nur zu.
+    - Miez: Da liegt doch etwas... Unter dem Bett? Ich traue meinen Augen nicht. Das leere Marmeladenglas!
+    - Miss Miau: Wie kommt das denn da hin?
+      - Bello: Das sagt uns die Wissenschaft. Die Spuren vom Glas stammen eindeutig von Miss Miaus Pfoten. Das bestätigt
+      meine Hypothese. Durch das Schlafbeerenextrakt war Miss Miau schlafwandelnd unterwegs...
+    - Miez: ... und hat ihre Marmelade selbst genascht!
+- Entwicklung der Pinnwand: Miss Miau hat ihre Marmelade im Schaf gegessen! Niemand war der Dieb - außer sie selbst.
+    - Dialog
         - Miau (beschämt) Ohje... ich bin also meine eigene Diebin...
         - Bello: Das nenn ich mal... Macht der Wissenschaft!
         - Miez: Na, das war wohl der leckerste Fall meiner Karriere.

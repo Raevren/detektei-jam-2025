@@ -334,7 +334,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 571629384982528
-    m_Localized: Verkosten oder stehen?
+    m_Localized: Verkosten oder stehlen?
     m_Metadata:
       m_Items: []
   - m_Id: 571786289700864
@@ -377,8 +377,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 581608959598592
-    m_Localized: "Hallo Zoe, ich h\xF6rte Sie haben sich neulich zienlich laut \xFCber
-      Miss Miau beschwert. K\xF6nnen Sie mir erz\xE4hlen, was vorgefallen ist?"
+    m_Localized: "* Nach einer kurzen Ank\xFCndigung treffen sich Miez und Zoe *\nHallo
+      Zoe, ich h\xF6rte Sie haben sich neulich zienlich laut \xFCber Miss Miau beschwert.
+      K\xF6nnen Sie mir erz\xE4hlen, was vorgefallen ist?"
     m_Metadata:
       m_Items: []
   - m_Id: 581884336627712
@@ -474,6 +475,126 @@ MonoBehaviour:
   - m_Id: 589891418152960
     m_Localized: "*nimmt mit einem Beweist\xFCtchen einen heruntergetropften Klecks
       des Schals auf*"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 629286291554304
+    m_Localized: "* nach einer telefonischen Ank\xFCndigung betritt Detective Miez
+      das Labor des Professors *"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 629457683398656
+    m_Localized: "Professsor Dr. Bello ich st\xF6re Sie ja nur ungern..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 630024111570944
+    m_Localized: 'Einen Moment ...
+
+      Ich muss noch ...
+
+      Ah ...'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 630182480101376
+    m_Localized: 'Das Teil muss hier ran ...
+
+      Und dann ...'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 630287853600768
+    m_Localized: Jetzt sollte es funktionieren!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 630330719387648
+    m_Localized: Entschuldigen Sie, Ich arbeite gerade an meiner "Marmeladenanalysemaschine".
+    m_Metadata:
+      m_Items: []
+  - m_Id: 630470767198208
+    m_Localized: "Miez, w\xFCrden Sie mir bitte den Schraubenschl\xFCssel reichen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 630969939705856
+    m_Localized: "Hier bittesch\xF6n.\nDas trifft sich gut Professor. K\xF6nnten
+      Sie die Marmelade von diesem L\xF6ffel f\xFCr mich analysieren?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 633024418856960
+    m_Localized: "Hm, gerne kann ich das tun. \nZum Gl\xFCck ist die Machine wieder
+      repariert. \nBitte einmal hier die Marmeladeeingeben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 633123148578816
+    m_Localized: .................
+    m_Metadata:
+      m_Items: []
+  - m_Id: 633169130733568
+    m_Localized: "* Die Maschiene gibt komische Ger\xE4usche von sich *"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 633914328530944
+    m_Localized: "Das ist ja seltsam ...\n\xC4u\xDFert seltsam ...\nExtrem seltsam
+      ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 635176986001408
+    m_Localized: 'Und?
+
+      Was haben sie herausgefunden?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 635266920267776
+    m_Localized: "Nun ja ...\nDie Analyse zeigt, dass die Marmelade \"Schlafbeerenextrakt\"
+      enth\xE4lt. Auch bekannt als S\xFC\xDFbeere."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 635887484321792
+    m_Localized: Schlafbeeren- was?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 635958300950528
+    m_Localized: "Schlafbeerenextrakt! \nDas ist eine seltene Zutat, die bei \xFCberm\xE4\xDFigen
+      Verz\xE4hrschl\xE4frig macht, aber auch ausgezeichnet schmeckt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 636193748205568
+    m_Localized: Verstehe ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 637767107133440
+    m_Localized: "Sagen Sie mal, wozu brauchen Sie die Analyse \xFCberhaupt?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 637886560911360
+    m_Localized: Ich versuche herauszufinden was mit Miss Miaus Marmelade passiert
+      ist...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 637991523368960
+    m_Localized: "Vielleicht hat jemand das Schlafbeeren..\xE4h dingsbums in die
+      Marmelade getan?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 639336041070592
+    m_Localized: "Gut m\xF6glich. \nDas l\xE4sst sich nat\xFCrlich mit Wissenschaft
+      beantworten..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 639425413300224
+    m_Localized: "Ich werde Miss Miau diesbez\xFCglich selbst untersuchen... \nwenn
+      sie Schlafwandelt, hat sie wohl was vom Schlafbeerenextrakt abbekommen. \nAm
+      besten notieren wir uns das..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640698367787008
+    m_Localized: "Vielen Dank f\xFCr Ihre Hilfe Professor! \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640840605024256
+    m_Localized: "Moment einmal... \nWas steht denn da in ihren Notizen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640924776316928
+    m_Localized: "Die Auff\xFChrung von Bruno B\xE4r im Zirkus?? \nBruno B\xE4r ...
+      Bruno B\xE4r ...\nDen hab ich noch nicht befragt!"
     m_Metadata:
       m_Items: []
   references:
