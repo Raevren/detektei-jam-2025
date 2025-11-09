@@ -225,7 +225,7 @@ Plan
         - Bello: Das sagt uns die Wissenschaft. Die Spuren vom Glas stammen eindeutig von Miss Miaus Pfoten. Das       bestätigt meine Hypothese. Durch das Schlafbeerenextrakt war Miss Miau schlafwandelnd unterwegs... 
         - Miez: ... und hat ihre Marmelade selbst genascht!
       -  Entwicklung der Pinnwand
-        - Miss Miau hat ihre Marmelade im Schaf gegessen! Niemand war der Dieb - außer sie selbst.
+            - Miss Miau hat ihre Marmelade im Schaf gegessen! Niemand war der Dieb - außer sie selbst.
       - Dialog
         - Miau (beschämt) Ohje... ich bin also meine eigene Diebin...
         - Bello: Das nenn ich mal... Selbsverwirklichung!
