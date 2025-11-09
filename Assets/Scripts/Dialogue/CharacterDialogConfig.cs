@@ -23,7 +23,7 @@ public static class CharacterDialogConfig
 public enum DialogActor
 {
     DetectiveMiez,
-    HenryHabicht,
+    henryHabicht,
     missMiau,
     brunoBör,
     karlNikel,

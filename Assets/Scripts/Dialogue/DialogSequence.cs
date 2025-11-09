@@ -21,19 +21,3 @@ public class CharacterDialog
     // Translation keys
     [field: SerializeField] public List<SingleDialog> Lines { get; private set; }
 }
-
-public enum DialogActor
-{
-    DetectiveMiez,
-    henryHabicht,
-    missMiau,
-    brunoBör,
-    karlNikel,
-    kurtKroko,
-    pfefferPig,
-    pherdiPhuchs,
-    professorBello,
-    zoeZiege,
-    telephone,
-    peterPiep
-}
