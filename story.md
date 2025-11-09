@@ -172,7 +172,7 @@ Plan
  8. Professor Bello - Der Denker
     - Dialog
         - Miez: Professsor Bello ich störe Sie ja nur ungern...
-        - Bello: Einen Moment... Ich muss noch... Ah... Das Teil muss hier ran... Und dann... Jetzt sollte es         funktionieren! Entschuldigen Sie, Ich arbeite gerade an einer "Marmeladenanalysemaschine". Miez, Reichen Sie mir den Schraubenschlüssel?
+        - Bello: Einen Moment... Ich muss noch... Ah... Das Teil muss hier ran... Und dann... Jetzt sollte es         funktionieren! Entschuldigen Sie, Ich arbeite gerade an meiner "Marmeladenanalysemaschine". Miez, Reichen Sie mir den Schraubenschlüssel?
         - Miez: Hier bitteschön. Das trifft sich gut Professor. Genau deswegen bin ich zu Ihnen gekommen... Könnten               Sie diese Marmelade für mich analysieren?
         - Bello: Hm, gerne kann ich das tun. Zum Glück ist die Machine wieder repariert. Bitte einmal hier die                    Marmelade eingeben.
           .....
