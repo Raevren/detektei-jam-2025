@@ -10,12 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1ffbc95c344114a3f8a79a9015a4b198, type: 3}
-  m_Name: "brunoB\xF6r_0"
+  m_Name: FINALE_0
   m_EditorClassIdentifier: 
-  <CompletedDialog>k__BackingField: {fileID: 11400000, guid: 5d135cbcdade85746bd4c4ad9214968b, type: 2}
-  <HintsToUnlock>k__BackingField:
-  - {fileID: 11400000, guid: b15f7612c1bdd45c5ae9cde78ee546d4, type: 2}
+  <CompletedDialog>k__BackingField: {fileID: 11400000, guid: 38701a8737b2f82418d57d226ad30762, type: 2}
+  <HintsToUnlock>k__BackingField: []
   <NeededConnectedHints>k__BackingField:
-  - {fileID: 11400000, guid: 0865c454ef499d1468836c5ba558a11c, type: 2}
+  - {fileID: 11400000, guid: b0f9d89a3a875424ab0da851bf4d5be5, type: 2}
   <AlternativeConnectedHints>k__BackingField: []
-  <HintImage>k__BackingField: {fileID: 1899897894, guid: 95d70a8913d6b5948859f2ed3fd661bd, type: 3}
+  <HintImage>k__BackingField: {fileID: 0}
