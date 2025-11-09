@@ -376,6 +376,106 @@ MonoBehaviour:
     m_Localized: "Vielleicht will sie ihr etwas auswischen.\nWer wei\xDF."
     m_Metadata:
       m_Items: []
+  - m_Id: 581608959598592
+    m_Localized: "Hallo Zoe, ich h\xF6rte Sie haben sich neulich zienlich laut \xFCber
+      Miss Miau beschwert. K\xF6nnen Sie mir erz\xE4hlen, was vorgefallen ist?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 581884336627712
+    m_Localized: "Na klasse.\nWelcher schr\xE4ge Vogel hat mich denn jetzt wieder
+      verpetzt?!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 582623029059584
+    m_Localized: "Es geht um den Erdbeermarmeladen-Wettbewerb. \nImmer gewinnt Miss
+      Miau mit ihrer BL\xD6DEN MARMELADE!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 582727475617792
+    m_Localized: Und gibt dann jedes verdammte Mal so arrogant damit an!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 582797734404096
+    m_Localized: Das macht mich krank.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 582915120390144
+    m_Localized: "*fl\xFCsternd*\nIch kann sie \xFCberhaupt nicht leiden..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 583026617573376
+    m_Localized: "*laut*\nUnd wenn Sie mich fragen, \nverdient Pfeffer Pig viel mehr
+      den Sieg."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 583096821833728
+    m_Localized: "Da w\xE4re es ja tragisch, \nwenn Miss Miaus Marmelade genau vor
+      dem Wettbewerb verschwindet..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 583711211872256
+    m_Localized: "Aha. So, so. \nIch habe Ihnen doch gar nicht gesagt, dass es sich
+      um einen Diebstahl handelt!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 583896470085632
+    m_Localized: "Sehr verd\xE4chtig..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 583969572610048
+    m_Localized: "Erz\xE4hlen Sie doch mal: Wo waren Sie gestern Nacht?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 584623661735936
+    m_Localized: "Ein Diebstahl? \nGestern Nacht?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 584898208292864
+    m_Localized: "Da war ich selbstverst\xE4ndlich bei meinem H\xE4kelkurs!\nSo wie
+      jede Woche."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 585001849544704
+    m_Localized: "*fl\xFCsternd* \nUnd selbst wenn...\nGeschieht Miss Miau recht..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 585412442546176
+    m_Localized: "Sie und ihre bl\xF6de Marmelade..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 585910864273408
+    m_Localized: Wow, Sie sind heute ja wirklich sehr garstig.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 586023829463040
+    m_Localized: "Ihr Schal fusselt wirklich stark \nund scheint nicht gerade frisch
+      gewaschen zu sein."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 586315799158784
+    m_Localized: "K\xF6nnen Sie mir erkl\xE4ren, was es damit auf sich hat?\nDas
+      sieht ja fast aus wie ein Erdbeermarmeladenklecks..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 587496554455040
+    m_Localized: "Detektiv Miez, Wie k\xF6nnen Sie es wagen, \nmich zu verd\xE4chtigen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 587819058683904
+    m_Localized: "Sie verschwenden Ihre Zeit! \nFragen Sie doch mal Professor Bello,
+      \nwas er gestern so getrieben hat!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 588022306267136
+    m_Localized: "ICH habe GENAU beobachtet, wie er am sp\xE4ten Abend in die Richtung
+      von Miaus Haus ging."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 589891418152960
+    m_Localized: "*nimmt mit einem Beweist\xFCtchen einen heruntergetropften Klecks
+      des Schals auf*"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

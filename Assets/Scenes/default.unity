@@ -436,7 +436,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31be2f1102a9d9f4dacd065a414bd1db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  testDialog: {fileID: 11400000, guid: d9c36deabbf559c48aabe7e2a545052c, type: 2}
+  testDialog: {fileID: 11400000, guid: df0035eba1234ba41b5d66b9dbc9fa73, type: 2}
   testMusic: {fileID: 11400000, guid: ac2aa1a7385e0e94a9e78cd3516da4b8, type: 2}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4790d7d0117446ce8e1667feafec584f, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  <Dialogs>k__BackingField:
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 5_0
+  - <Actor>k__BackingField: 9
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 1
+      <DialogKey>k__BackingField: 5_1
+    - <ActorSpriteSuffix>k__BackingField: 1
+      <DialogKey>k__BackingField: 5_2
+    - <ActorSpriteSuffix>k__BackingField: 1
+      <DialogKey>k__BackingField: 5_3
+    - <ActorSpriteSuffix>k__BackingField: 1
+      <DialogKey>k__BackingField: 5_4
+    - <ActorSpriteSuffix>k__BackingField: 1
+      <DialogKey>k__BackingField: 5_5
+    - <ActorSpriteSuffix>k__BackingField: 1
+      <DialogKey>k__BackingField: 5_6
+    - <ActorSpriteSuffix>k__BackingField: 1
+      <DialogKey>k__BackingField: 5_7
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 5_8
+    - <ActorSpriteSuffix>k__BackingField: 1
+      <DialogKey>k__BackingField: 5_9
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 5_10
+  - <Actor>k__BackingField: 9
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 0
+      <DialogKey>k__BackingField: 5_11
+    - <ActorSpriteSuffix>k__BackingField: 2
+      <DialogKey>k__BackingField: 5_12
+    - <ActorSpriteSuffix>k__BackingField: 1
+      <DialogKey>k__BackingField: 5_13
+    - <ActorSpriteSuffix>k__BackingField: 1
+      <DialogKey>k__BackingField: 5_14
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 0
+      <DialogKey>k__BackingField: 5_15
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 5_16
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 5_17
+  - <Actor>k__BackingField: 9
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 3
+      <DialogKey>k__BackingField: 5_18
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 5_19
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 5_20
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 5_21
