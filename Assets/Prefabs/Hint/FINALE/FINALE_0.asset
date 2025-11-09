@@ -17,4 +17,4 @@ MonoBehaviour:
   <NeededConnectedHints>k__BackingField:
   - {fileID: 11400000, guid: b0f9d89a3a875424ab0da851bf4d5be5, type: 2}
   <AlternativeConnectedHints>k__BackingField: []
-  <HintImage>k__BackingField: {fileID: 0}
+  <HintImage>k__BackingField: {fileID: -218647223, guid: a706866fa1aeb1d40b4da23da9ba2dd0, type: 3}
