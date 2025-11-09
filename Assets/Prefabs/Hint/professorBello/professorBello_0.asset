@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ffbc95c344114a3f8a79a9015a4b198, type: 3}
   m_Name: professorBello_0
   m_EditorClassIdentifier: 
-  <CompletedDialog>k__BackingField: {fileID: 0}
-  <HintsToUnlock>k__BackingField: []
-  <NeededConnectedHints>k__BackingField: []
+  <CompletedDialog>k__BackingField: {fileID: 11400000, guid: 08af39dffe4ab1d488809241aa5eb5e7, type: 2}
+  <HintsToUnlock>k__BackingField:
+  - {fileID: 11400000, guid: 0865c454ef499d1468836c5ba558a11c, type: 2}
+  <NeededConnectedHints>k__BackingField:
+  - {fileID: 11400000, guid: 851fed0477b12d646a8cc04d57db1fbd, type: 2}
   <AlternativeConnectedHints>k__BackingField: []
   <HintImage>k__BackingField: {fileID: -617519385, guid: 66fe0729393a6ef45972c9ff39be4ccb, type: 3}

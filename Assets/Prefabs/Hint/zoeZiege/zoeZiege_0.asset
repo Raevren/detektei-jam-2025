@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: zoeZiege_0
   m_EditorClassIdentifier: 
   <CompletedDialog>k__BackingField: {fileID: 11400000, guid: df0035eba1234ba41b5d66b9dbc9fa73, type: 2}
-  <HintsToUnlock>k__BackingField: []
+  <HintsToUnlock>k__BackingField:
+  - {fileID: 11400000, guid: 0865c454ef499d1468836c5ba558a11c, type: 2}
   <NeededConnectedHints>k__BackingField:
   - {fileID: 11400000, guid: 1d438dbaa07b06b479a3d651c0f6869d, type: 2}
   <AlternativeConnectedHints>k__BackingField: []
