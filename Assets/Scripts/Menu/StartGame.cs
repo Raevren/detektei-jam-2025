@@ -30,5 +30,11 @@ namespace Menu
             SoundSystem.Instance.PlayGenericSfx(CommonSfx.Submit);
             SceneManager.LoadScene("Scenes/PIN_SCENE");
         }
+
+        public void DeletePlayerPrefs()
+        {
+            PlayerPrefs.DeleteAll();
+            PlayerPrefs.Save();
+        }
     }
 }
