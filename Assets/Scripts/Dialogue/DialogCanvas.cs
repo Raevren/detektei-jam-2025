@@ -138,6 +138,7 @@ public class DialogCanvas : MonoBehaviour
         if (instantly)
         {
             // End now!!!
+            _instance = null;
             _anim.SetBool("HasNext", false);
             _anim.SetTrigger("End");
             return;

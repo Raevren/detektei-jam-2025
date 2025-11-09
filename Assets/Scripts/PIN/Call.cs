@@ -30,16 +30,8 @@ public class Call : MonoBehaviour
         
         // The player has completed the step
         if(_hintManager.CurrentHintStep.CompletedDialog != null)
-            DialogCanvas.Spawn(_hintManager.CurrentHintStep.CompletedDialog, () => OnStepCompleted(_hintManager.CurrentHintStep));
+            DialogCanvas.Spawn(_hintManager.CurrentHintStep.CompletedDialog, () => _hintManager.OnStepCompleted(_hintManager.CurrentHintStep));
         else
-            OnStepCompleted(_hintManager.CurrentHintStep);
-    }
-
-    private void OnStepCompleted(HintStep hintStep)
-    {
-        foreach (var hint in hintStep.HintsToUnlock)
-        {
-            _hintManager.UnlockHint(hint);
-        }
+            DialogCanvas.Spawn(_hintManager.CurrentHint.fallbackDialogs[0]);
     }
 }
