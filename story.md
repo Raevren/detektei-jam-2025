@@ -204,6 +204,31 @@ Plan
         -  Bruno Bär
     - Ziel für den nächsten Hinweis: Bruno befragen
 
+9. Bruno Bär (Zirkuszelt)
+      - Dialog
+        - Bruno: Miss Miau? Ja, ich war gestern bei Miss Miau. Ich wollte ihr eigentlich meine neues Kunststück auf   dem Einrad zeigen... Doch als ich ankam... Da war sie am Dösen... Zzzzz... Zzzzz...
+        - Miez: Aha. Miss Miez hat also geschlafen, als du ankamst. Ist dir sonst noch etwas aufgefallen?
+        - Bruno: Nun ja. Jetzt wo du es sagst - Miss Miez hatte einen Löffel in der Pfote... und Marmelade... im Fell.
+        - Miez: Verstehe... Vielen Dank Bruno... Ich glaube ich bin der Lösung auf der Spur...
+      - Entwicklung der Pinwnwand:
+        - Neuer Hinweis: Miss Miau schien bereits zu schlafen
+        - Neuer Hinweis: Löffel in der Pfote
+      - Ziel: Zurück zu Miss Miau
+  
+  10. Finale (Rückkehr zu Miss Miau)
+  -  Dialog
+        - Miss Miau: Oh Miez, zum Glück bist du wieder da! Konntest du den Dieb schnappen?
+        - Miez: Ich habe da so eine Vermutung... Hm... Darf ich dein Schlafzimmer untersuchen?
+        - Miss Miau: Natürlich, nur zu.
+        - Miez: Da liegt doch etwas... Unter dem Bett? Ich traue meinen Augen nicht. Das leere Marmeladenglas!
+        - Miss Miau: Wie kommt das denn da hin?
+         - Bello: Das sagt uns die Wissenschaft. Die Spuren vom Glas stammen eindeutig von Miss Miaus Pfoten. Das       bestätigt meine Hypothese. Durch das Schlafbeerenextrakt war Miss Miau schlafwandelnd unterwegs... 
+        - Miez: ... und hat ihre Marmelade selbst genascht!
+  -  Entwicklung der Pinnwand: Miss Miau hat ihre Marmelade im Schaf gegessen! Niemand war der Dieb - außer sie selbst.
+      - Dialog
+        - Miau (beschämt) Ohje... ich bin also meine eigene Diebin...
+        - Bello: Das nenn ich mal... Macht der Wissenschaft!
+        - Miez: Na, das war wohl der leckerste Fall meiner Karriere.
 
 
 
