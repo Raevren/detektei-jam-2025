@@ -63,6 +63,7 @@ public class DialogCanvas : MonoBehaviour
         dialogText.text = "";
         
         advanceButton.onClick.AddListener(OnClickAdvance);
+        if(sequence.PlayWhileTalking != null) SoundSystem.Instance.PlayMusic(sequence.PlayWhileTalking);
     }
 
     /// <summary>
@@ -184,7 +185,10 @@ public class DialogCanvas : MonoBehaviour
     private void Anim_Destroy()
     {
         _onEnd?.Invoke();
-        if(_sequence.PlayOnEnd != null) GameSoundManager.SwitchTrack(_sequence.PlayOnEnd);
+        if(_sequence.NewBgmOnEnd != null) 
+            GameSoundManager.SwitchTrack(_sequence.NewBgmOnEnd);
+        else 
+            GameSoundManager.PlayCurrentBgm();
         Destroy(gameObject);
     }
     

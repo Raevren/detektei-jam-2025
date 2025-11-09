@@ -465,7 +465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ca7f87be153176448befa081a0d5c5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  introMusic: {fileID: 11400000, guid: ac2aa1a7385e0e94a9e78cd3516da4b8, type: 2}
+  defaultTrack: {fileID: 11400000, guid: 454b6c2ce1b15ed4f9f7f579e4bac255, type: 2}
 --- !u!4 &519325612
 Transform:
   m_ObjectHideFlags: 0
