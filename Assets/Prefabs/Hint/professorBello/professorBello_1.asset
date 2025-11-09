@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <CompletedDialog>k__BackingField: {fileID: 0}
   <HintsToUnlock>k__BackingField: []
-  <NeededConnectedHints>k__BackingField: []
+  <NeededConnectedHints>k__BackingField:
+  - {fileID: 11400000, guid: b0f9d89a3a875424ab0da851bf4d5be5, type: 2}
   <AlternativeConnectedHints>k__BackingField: []
   <HintImage>k__BackingField: {fileID: -617519385, guid: 66fe0729393a6ef45972c9ff39be4ccb, type: 3}

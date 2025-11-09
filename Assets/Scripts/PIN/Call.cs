@@ -18,6 +18,7 @@ public class Call : MonoBehaviour
     private void OnPressCall()
     {
         if (_hintManager.CurrentHint == null) return;
+        SoundSystem.Instance.PlayGenericSfx(CommonSfx.Call);
         
         if (!_hintManager.IsHintStepCompleted(_hintManager.CurrentHint, _hintManager.CurrentHintStep))
         {

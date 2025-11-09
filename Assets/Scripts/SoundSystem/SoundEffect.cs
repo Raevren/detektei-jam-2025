@@ -12,5 +12,6 @@ public enum CommonSfx
     Submit,
     TextM,
     TextH,
-    Call
+    Call,
+    ClickPin
 }
