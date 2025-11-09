@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4790d7d0117446ce8e1667feafec584f, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  <Dialogs>k__BackingField:
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 4_0
+  - <Actor>k__BackingField: 1
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 4_1
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 4_2
+  - <Actor>k__BackingField: 1
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 0
+      <DialogKey>k__BackingField: 4_3
+    - <ActorSpriteSuffix>k__BackingField: 1
+      <DialogKey>k__BackingField: 4_4
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 4_5
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 4_6
+  - <Actor>k__BackingField: 1
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 1
+      <DialogKey>k__BackingField: 4_7
+    - <ActorSpriteSuffix>k__BackingField: 0
+      <DialogKey>k__BackingField: 4_8
+    - <ActorSpriteSuffix>k__BackingField: 2
+      <DialogKey>k__BackingField: 4_9
+  - <Actor>k__BackingField: 0
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 
+      <DialogKey>k__BackingField: 4_10
+  - <Actor>k__BackingField: 1
+    <Lines>k__BackingField:
+    - <ActorSpriteSuffix>k__BackingField: 0
+      <DialogKey>k__BackingField: 4_11
+    - <ActorSpriteSuffix>k__BackingField: 1
+      <DialogKey>k__BackingField: 4_12
+    - <ActorSpriteSuffix>k__BackingField: 2
+      <DialogKey>k__BackingField: 4_13

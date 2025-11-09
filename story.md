@@ -134,7 +134,8 @@ Plan
         - Peter Piep: Wir sahen nachts Licht in Miss Miaus Küche! Und was glähnzendes durchs Fenster!
         - Mietz: Etwa ein Glas Marmelade?
         - Peter Piep: [piepst] Genau! [schüttelt sich und verliert einige Federn]
-        - Miez: Hmmm... diese Federn passen nicht zu der von mir gefundenen... Nun gut, vielen Dank für eure Kooperation.
+        - Miez: Hmmm... diese Federn passen nicht zu der von mir gefundenen... Nun gut, vielen Dank für eure
+          Kooperation.
     - Entwicklung der Pinnwand:
         - Neuer Hinweis: Feder gehört nicht zu Peter Piep
         - Neuer Hinweis: Jemand war nachts in der Küche
