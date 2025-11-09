@@ -15,5 +15,6 @@ MonoBehaviour:
   <Dialogs>k__BackingField:
   - <Actor>k__BackingField: 0
     <Lines>k__BackingField:
-    - <ActorSpriteSuffix>k__BackingField: sad
+    - <ActorSpriteSuffix>k__BackingField: 1
       <DialogKey>k__BackingField: miez_fallback1_1
+  <PlayOnEnd>k__BackingField: {fileID: 0}

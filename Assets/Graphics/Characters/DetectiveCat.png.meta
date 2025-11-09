@@ -145,7 +145,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DetectiveMiez_happy
+      name: DetectiveMiez_2
       rect:
         serializedVersion: 2
         x: 6
@@ -167,7 +167,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DetectiveCat_0
+      name: DetectiveMiez_1
       rect:
         serializedVersion: 2
         x: 261
@@ -189,7 +189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DetectiveCat_1
+      name: DetectiveMiez_3
       rect:
         serializedVersion: 2
         x: 259
@@ -224,10 +224,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      DetectiveCat_0: 1540860845
-      DetectiveCat_1: -217187081
       DetectiveMiez_0: 2064330830
-      DetectiveMiez_happy: -523589595
+      DetectiveMiez_1: 1540860845
+      DetectiveMiez_2: -523589595
+      DetectiveMiez_3: -217187081
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
