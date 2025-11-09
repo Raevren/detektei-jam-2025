@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4e8e3b8bf17dd4f2b8c5758b681c2247, type: 3}
-  m_Name: karlNikel
+  m_Name: kurtKroko
   m_EditorClassIdentifier: 
   hints:
-  - {fileID: 11400000, guid: 484e9a969f94e7849bee7c137a52fad9, type: 2}
-  - {fileID: 11400000, guid: 61c2f87166f12f246a60941773ffa096, type: 2}
+  - {fileID: 11400000, guid: 722d0e75f99e6b44fb09f60138e7238b, type: 2}
+  - {fileID: 11400000, guid: 5215c2d1479bbb943b3dd63f9396b695, type: 2}
   fallbackDialogs:
   - {fileID: 11400000, guid: 5ef81aeac1a9e7f4cae84a8682f80a9a, type: 2}
